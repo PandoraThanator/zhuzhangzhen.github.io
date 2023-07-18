@@ -21,7 +21,7 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 # 💻 Internships
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/zhuzhangzhen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images/zhuzhangzhen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2016.10 - 2017.06*, [Lorem](https://github.com/), NanJing.
 
