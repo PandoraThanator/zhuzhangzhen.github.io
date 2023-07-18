@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+ I am Jiarong Lin (林家荣), a Ph.D. candidate at The University of Hong Kong (HKU)🏫. My research interests lie in the areas of Simultaneous Localization and Mapping (SLAM), 3D reconstruction, and Multi-Sensor Fusion. I have a proven track record of producing high-quality research that is the first author of 6 accepted ICRA, IROS, and RA-L papers, and the first author of 2 under-review T-PAMI, and T-RO journals (see my publication list for details).
+    In addition to my academic pursuits, I am also an active open-source contributor😊. I have made all the code for my publications available on GitHub, where it has received over 5.7k stars⭐ from the community. Some of my most popular works include R3LIVE (★1.4k), FAST-LIO (★1.4k), loam-livox (★1.2k), R2LIVE (★0.6k), and ImMesh🆕(★0.2k).
+    I am dedicated to producing high-quality research and making meaningful contributions to both academics and industry.
 
 A data-driven personal website
 ======
