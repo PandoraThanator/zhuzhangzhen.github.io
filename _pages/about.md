@@ -9,11 +9,11 @@ redirect_from:
 ---
 
  I am Zhangzhen Zhu (朱张赈), a Ph.D. student at ZheJiang University, with the State Key Laboratory of Industrial Control Technology,
-College of Control Science and Engineering. My research interests lie in the areas of robust and nonlinear control, in particular, with emphasis on Adaptive High Order Sliding Mode Control/Observer, Time-Varying Input Delay Systems/Nonlinear Model Predictive Control, Discrete-Time Event-Triggered Control and their applications to complex real systems, including unmanned aerial vehicles and brushless DC motors (see my Publication list for details). 
+College of Control Science and Engineering. My research interests lie in the areas of robust and nonlinear control, in particular, with emphasis on Adaptive High Order Sliding Mode Control/Observer, Time-Varying Input Delay Systems/ Nonlinear Model Predictive Control, Discrete-Time Event-Triggered Control and their applications to complex real systems, including unmanned aerial vehicles and brushless DC motors (see my Publication list for details). 
 
- In addition to my academic pursuits, I also possess extensive experience in the development of complex Mechatronic systems from scratch (see my Projects list for details), including Mechanical system realization, Circuit system customization and efficient code deployment. I believe that the familiarity with the hardware systems will effectively enhance control engineers' comprehension of the theoretical research, and to a certain extent, eliminate vacuous mathematical academic research in the control society.
+ In addition to my academic pursuits, I also possess extensive experience in the development of complex Mechatronic systems from scratch (see my Projects list for details), including mechanical system realization, circuit system customization, system modeling and identification, and efficient code deployment. I believe that the familiarity with the hardware systems will effectively enhance control engineers' comprehension of the theoretical research, and to a certain extent, eliminate vacuous mathematical academic research in the control society.
  
- I am looking forward to making progress together with an excellent team, and dedicated to producing high-quality research and making meaningful contributions to both academics and industrial societies.
+ I am dedicated to producing high-quality research and making meaningful contributions to both academics and industrial societies, and looking forward to making progress together with an excellent team.
 
 A data-driven personal website
 ======
