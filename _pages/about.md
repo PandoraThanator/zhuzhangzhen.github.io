@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
- I am Jiarong Lin (林家荣), a Ph.D. candidate at The University of Hong Kong (HKU)🏫. My research interests lie in the areas of Simultaneous Localization and Mapping (SLAM), 3D reconstruction, and Multi-Sensor Fusion. I have a proven track record of producing high-quality research that is the first author of 6 accepted ICRA, IROS, and RA-L papers, and the first author of 2 under-review T-PAMI, and T-RO journals (see my publication list for details).
+ I am Zhangzhen Zhu (朱张赈), a Ph.D. student at ZheJiang University, with the State Key Laboratory of Industrial Control Technology,
+College of Control Science and Engineering. My research interests lie in the areas of robust and nonlinear control, in particular, with emphasis on Adaptive High Order Sliding Mode Control/Observer, Time-Varying Input Delay Systems/Nonlinear Model Predictive Control, Discrete-time Event-Triggered Control and their applications to complex real systems, including Unmanned aerial vehicles and Brushless DC motors.
+ In addition to my academic pursuits, I am also 
+I have a proven track record of producing high-quality research that is the first author of 6 accepted ICRA, IROS, and RA-L papers, and the first author of 2 under-review T-PAMI, and T-RO journals (see my publication list for details).
     In addition to my academic pursuits, I am also an active open-source contributor😊. I have made all the code for my publications available on GitHub, where it has received over 5.7k stars⭐ from the community. Some of my most popular works include R3LIVE (★1.4k), FAST-LIO (★1.4k), loam-livox (★1.2k), R2LIVE (★0.6k), and ImMesh🆕(★0.2k).
     I am dedicated to producing high-quality research and making meaningful contributions to both academics and industry.
 
