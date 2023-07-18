@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhangzhen, Zhu 朱张赈"
+  name             : "Zhangzhen, Zhu"
   avatar           : "zhuzhangzhen.png"
   bio              : "ZheJiang University"
-  location         : "Location"
+  location         : "http://www.cse.zju.edu.cn/"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "zhuzhangzhen@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   curriculum vitae : "http://yourfullgooglescholarurl.com"
   uri              :
