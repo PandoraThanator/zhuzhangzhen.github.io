@@ -48,7 +48,7 @@ College of Control Science and Engineering. My research interests lie in the are
             <div>
 
               <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate of Control Science and Engineering </div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.hku.hk/" target="_blank" rel="noopener">The university of Hong Kong (HKU)</a></div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.cse.zju.edu.cn/" target="_blank" rel="noopener">College of Control Science and Engineering, Zhejiang University, Hangzhou</a></div>
               <div class="text-muted exp-meta">
                 2018.09 - Present
                 
@@ -75,11 +75,11 @@ College of Control Science and Engineering. My research interests lie in the are
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://en.uestc.edu.cn/" target="_blank" rel="noopener"><img src="../images/NUAA_Logo.png" width="56px" height="56px" alt="Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing." loading="lazy"></a></div>
+            <div class="mr-2 mb-2"><a href="https://changkong.nuaa.edu.cn/" target="_blank" rel="noopener"><img src="../images/NUAA_Logo.png" width="56px" height="56px" alt="Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing." loading="lazy"></a></div>
             <div>
 
               <div class="section-subheading card-title exp-title text-muted my-0">Bachelor of Mechanical and Electrical Engineering</div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://en.uestc.edu.cn/" target="_blank" rel="noopener">University of Electronic Science and Technology of China (UESTC)</a></div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://changkong.nuaa.edu.cn/" target="_blank" rel="noopener">Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing</a></div>
               <div class="text-muted exp-meta">
                 2014.09 - 2018.06
                 
