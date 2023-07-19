@@ -77,8 +77,6 @@ College of Control Science and Engineering. My research interests lie in the are
   Cite
 </a>
 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/ImMesh" target="_blank" rel="noopener">
-    Code on Github (★ 0.2K🆕)</a>
 
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
     Video</a>
@@ -113,8 +111,6 @@ College of Control Science and Engineering. My research interests lie in the are
   Cite
 </a>
 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/std" target="_blank" rel="noopener">
-    Code on Github (★ 0.1K🆕)</a>
 
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/O-9iXn1ME3g" target="_blank" rel="noopener">
     Video</a>
@@ -151,21 +147,10 @@ College of Control Science and Engineering. My research interests lie in the are
 </a>
 
 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/r3live" target="_blank" rel="noopener">
-    Code on Github (★ 1.4K)</a>
-
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ziv-lin/r3live_dataset" target="_blank" rel="noopener">
-    Dataset</a>
-
-
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/qXrnIfn-7yA" target="_blank" rel="noopener">
     Video</a>
 
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ziv-lin/rxlive_handheld" target="_blank" rel="noopener">
-    Hardware-Design</a>
+
 
 </p>
 
@@ -199,11 +184,6 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_r3live/cite.bib">
   Cite
 </a>
-  
- 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/r3live" target="_blank" rel="noopener">
-    Code on Github (★ 1.4K)</a>
-
 
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ziv-lin/r3live_dataset" target="_blank" rel="noopener">
     Dataset</a>
@@ -213,9 +193,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=4rjrrLgL3nk" target="_blank" rel="noopener">
     Video-2</a>
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ziv-lin/rxlive_handheld" target="_blank" rel="noopener">
-    Hardware-Design</a>
 
 </p>
 
@@ -248,11 +225,7 @@ College of Control Science and Engineering. My research interests lie in the are
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_fast_lio2/cite.bib">
   Cite
-</a>
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/FAST_LIO" target="_blank" rel="noopener">
-    Code on Github (★ 1.4K)</a>
-  
+</a>  
   
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/iYCY6T79oNU" target="_blank" rel="noopener">
     Video</a>
@@ -290,15 +263,8 @@ College of Control Science and Engineering. My research interests lie in the are
   Cite
 </a>
 
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/r2live" target="_blank" rel="noopener">
-    Code on Github (★ 0.6K)</a>
-
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=9lqRHmlN_MA" target="_blank" rel="noopener">
     Video</a>
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ziv-lin/rxlive_handheld" target="_blank" rel="noopener">
-    Hardware-Design</a>
 
 </p>
 
@@ -330,11 +296,6 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_dc_loam/cite.bib">
   Cite
 </a>
-
- 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/ImMesh" target="_blank" rel="noopener">
-    Code on Github (★ 0.2K)</a>
-
  
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
     Video</a>
@@ -368,11 +329,6 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_loam_livox/cite.bib">
   Cite
 </a>
-  
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/loam_livox" target="_blank" rel="noopener">
-    Code on Github (★ 1.2K)</a>
-
 
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
     Video</a>
@@ -409,11 +365,6 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_cross_gap/cite.bib">
   Cite
 </a>
-   
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/crossgap_il_rl" target="_blank" rel="noopener">
-    Code on Github (★ 33)</a>
-
 
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=-HXARYlhat4" target="_blank" rel="noopener">
     Video</a>
@@ -506,9 +457,6 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename="/project/proj_immesh/cite.bib">
   Cite
 </a>
-
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/hku-mars/ImMesh" target="_blank" rel="noopener">
-    Code on Github (★ 0.2K🆕)</a>
   
   <a class="btn btn-outline-primary btn-page-header" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
     Video</a>
@@ -551,18 +499,12 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename="/project/proj_r3live/cite.bib">
   Cite
 </a>
-
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/hku-mars/r3live" target="_blank" rel="noopener">
-    Code on Github (★ 1.4K)</a>
  
   <a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=j5fT8NE5fdg" target="_blank" rel="noopener">
     Video-1</a>
 
   <a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=4rjrrLgL3nk" target="_blank" rel="noopener">
     Video-2</a>
-
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/ziv-lin/rxlive_handheld" target="_blank" rel="noopener">
-    Hardware-Design</a>
 
       </div>
 
@@ -602,9 +544,6 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename="/project/proj_fastlio/cite.bib">
   Cite
 </a>
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/hku-mars/fast_lio" target="_blank" rel="noopener">
-    Code on Github (★ 1.4K)</a>
   
   <a class="btn btn-outline-primary btn-page-header" href="https://youtu.be/2OvjGnxszf8" target="_blank" rel="noopener">
     Video</a>
@@ -646,15 +585,9 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename="/project/proj_r2live/cite.bib">
   Cite
 </a>
-
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/hku-mars/r2live" target="_blank" rel="noopener">
-    Code on Github (★ 0.6K)</a>
     
   <a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=9lqRHmlN_MA" target="_blank" rel="noopener">
     Video</a>
-
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/ziv-lin/rxlive_handheld" target="_blank" rel="noopener">
-    Hardware-Design</a>
 
       </div>
 
@@ -697,9 +630,6 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename="/project/proj_loam_livox/cite.bib">
   Cite
 </a>
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/hku-mars/loam_livox" target="_blank" rel="noopener">
-    Code on Github (★ 1.2K)</a>
 
   <a class="btn btn-outline-primary btn-page-header" href="https://youtu.be/WHbbtU-Q9-k" target="_blank" rel="noopener">
     Video-1</a>
@@ -707,10 +637,6 @@ College of Control Science and Engineering. My research interests lie in the are
   
   <a class="btn btn-outline-primary btn-page-header" href="https://youtu.be/Uq8rUEk-XnI" target="_blank" rel="noopener">
     Video-2</a>
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/ziv-lin/My_solidworks/tree/master/livox_handhold" target="_blank" rel="noopener">
-    Hardware-Design</a>
 
       </div>
 
