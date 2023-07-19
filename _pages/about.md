@@ -102,19 +102,9 @@ College of Control Science and Engineering. My research interests lie in the are
 
 # 📝 Publications 
 
-<section id="featured" class="home-section wg-collection  ">
- <div class="home-section-bg ">
-   
- </div>
-  <div class="container">
-
-    <div class="row  ">
-
-<div class="col-12 col-lg-8">
-  
-
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
- 
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
   <span class="article-metadata li-cite-author">
     
   <span class="author-highlighted">
@@ -140,107 +130,12 @@ College of Control Science and Engineering. My research interests lie in the are
   Cite
 </a>
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
-    Video</a>
-
-</p>
-
-</div>
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-
-  <span class="article-metadata li-cite-author">
-
-  <span>
-      Chongjiang Yuan</span>, <span class="author-highlighted">
-      Jiarong Lin</span>, <span>
-      Zuhao Zou</span>, <span>
-      Xiaoping Hong</span>, <span>
-      Fu Zhang</span>
-  </span>
-  (2022).
-  <a href="/publication/paper_std/">STD: Stable Triangle Descriptor for 3D place recognition</a>.
-  Accepted to <em><strong>ICRA2023</strong></em>.
-
-  <p>
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/std.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_std/cite.bib">
-  Cite
-</a>
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/O-9iXn1ME3g" target="_blank" rel="noopener">
-    Video</a>
-
-</p>
-
-</div>
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-
-  <span class="article-metadata li-cite-author">
-
-  <span class="author-highlighted">
-      Jiarong Lin</span>, <span>
-      Fu Zhang</span>
-  </span>
-  (2022).
-  <a href="/publication/paper_r3live_pp/">R<mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="4" style="font-size: 119.6%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-msup><mjx-mi class="mjx-n"></mjx-mi><mjx-script style="vertical-align: 0.363em;"><mjx-mn class="mjx-n" size="s"><mjx-c class="mjx-c33"></mjx-c></mjx-mn></mjx-script></mjx-msup></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi></mi><mn>3</mn></msup></math></mjx-assistive-mml></mjx-container>LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator</a>.
-  <em><strong>Under review</strong></em>.
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/ImMesh" target="_blank" rel="noopener">
+    Code on Github (★ 0.2K🆕)</a>    
   
-  <p>
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/r3live++.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_r3live_pp/cite.bib">
-  Cite
-</a>
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/qXrnIfn-7yA" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
     Video</a>
 
-</p>
-
-</div>
-
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span>
-      Wei Xu</span>, <span>
-      Yixi Cai</span>, <span>
-      Dongjiao He</span>, <span class="author-highlighted">
-      Jiarong Lin</span>, <span>
-      Fu Zhang</span>
-  </span>
-  (2021).
-  <a href="/publication/paper_fast_lio2/">FAST-LIO2: Fast Direct LiDAR-inertial Odometry</a>.
-  Accepted to <em><strong>T-RO2022</strong></em>.
-  
-  <p>
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/Fast_LIO_2.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_fast_lio2/cite.bib">
-  Cite
-</a>  
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/iYCY6T79oNU" target="_blank" rel="noopener">
-    Video</a>
 </p>
 
 </div>
