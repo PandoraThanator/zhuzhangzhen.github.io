@@ -508,7 +508,7 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 # 💻 Projects
-<section id="projects" class="home-section wg-portfolio  ">
+<!--   <section id="projects" class="home-section wg-portfolio  ">   -->
 
 
  <div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2019</div><img src="../images/zhuzhangzhen.png" alt="sym" width="100%"></div></div>
@@ -529,7 +529,7 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 
-
+<!--  
   <div class="container">
 
   
@@ -772,12 +772,16 @@ College of Control Science and Engineering. My research interests lie in the are
 
   </div>
 </section>
+
+-->
 <p>
   <br />
   <br />
 </p>
 
 
+
+ 
 
 
 # 💻 Internships
