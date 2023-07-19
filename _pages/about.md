@@ -445,12 +445,11 @@ College of Control Science and Engineering. My research interests lie in the are
   
   </div>
   
-</p>
-</p>
-</p>
-
 </section>
 
+<p>
+<br />
+</p>
 
 
 
