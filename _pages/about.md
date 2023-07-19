@@ -45,6 +45,126 @@ College of Control Science and Engineering. My research interests lie in the are
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 
+<div class="col-12 isotope-item js-id-immesh js-id-lidar-slam js-id-multi-sensor-fusion js-id-lider-inertial js-id-3d-reconstruction" style="position: absolute; left: 0px; top: 0px;">
+        
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/proj_immesh/">🆕ImMesh: An Immediate LiDAR Localization and Meshing Framework</a></div>
+
+      
+      <div class="article-style">
+        <strong>ImMesh</strong> is a novel LiDAR(-inertial) odometry and meshing framework, which takes advantage of input of LiDAR data, achieving the goal of <strong>simultaneous localization and meshing</strong> in real-time. ImMesh comprises four tightly-coupled modules: <em>receiver</em>, <em>localization</em>, <em>meshing</em>, and <em>broadcaster</em>. The <em>localization</em> module utilizes the prepossessed sensor data from the <em>receiver</em>, estimates the sensor pose online by registering LiDAR scans to maps, and dynamically grows the map. Then, our <em>meshing</em> module takes the registered LiDAR scan for <strong>incrementally reconstructing the triangle mesh on the fly</strong>. Finally, the real-time odometry, map, and mesh are published via our <em>broadcaster</em>.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/uploads/ImMesh.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename="/project/proj_immesh/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/hku-mars/ImMesh" target="_blank" rel="noopener">
+    Code on Github (★ 0.2K🆕)</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
+    Video</a>
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        <a href="/project/proj_immesh/">
+          <img src="/project/proj_immesh/featured_hu7f436b084e9af9db6b1e6e2a03bb4ac2_1533052_540x0_resize_q100_h2_lanczos.webp" height="436" width="540" alt="🆕ImMesh: An Immediate LiDAR Localization and Meshing Framework" loading="lazy">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
 
 
 # 💻 Internships
