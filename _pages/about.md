@@ -51,7 +51,7 @@ College of Control Science and Engineering. My research interests lie in the are
   
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  - *
 
  
 
@@ -454,11 +454,16 @@ College of Control Science and Engineering. My research interests lie in the are
     </div>
   
   </div>
+  
+</p>
+</p>
+</p>
+
 </section>
 
-</p>
-</p>
-</p>
+
+
+
 
 
 
