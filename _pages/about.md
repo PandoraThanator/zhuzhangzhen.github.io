@@ -250,7 +250,6 @@ College of Control Science and Engineering. My research interests lie in the are
   <br />
 </p>
   
-</section>
 
 
 
