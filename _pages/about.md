@@ -515,10 +515,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
 # 💻 Projects
 <section id="projects" class="home-section wg-portfolio  ">
- <div class="home-section-bg ">
-   
- </div>
-
 
 
  <div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2019</div><img src="../images/zhuzhangzhen.png" alt="sym" width="100%"></div></div>
@@ -549,28 +545,6 @@ College of Control Science and Engineering. My research interests lie in the are
 <div class="col-12 ">
 
     
-    <div class="project-toolbar">
-      <div class="project-filters">
-        <div class="btn-toolbar d-flex justify-content-center">
-          <div class="btn-group flex-wrap">
-
-              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
-
-              <a href="#" data-filter=".js-id-immesh" class="btn btn-primary btn-lg">ImMesh</a>
-
-              <a href="#" data-filter=".js-id-r3live" class="btn btn-primary btn-lg">R3LIVE</a>
-            
-              <a href="#" data-filter=".js-id-fast-lio" class="btn btn-primary btn-lg">FAST-LIO</a>
-
-              <a href="#" data-filter=".js-id-loam_livox" class="btn btn-primary btn-lg">loam_livox</a>
-            
-
-              <a href="#" data-filter=".js-id-r2live" class="btn btn-primary btn-lg">R2LIVE</a>
-            
-          </div>
-        </div>
-      </div>
-    </div>
 
   <div class="isotope projects-container row js-layout-row project-showcase" style="position: relative; height: 2937.68px;">
 
