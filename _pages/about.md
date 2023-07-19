@@ -91,8 +91,8 @@ College of Control Science and Engineering. My research interests lie in the are
   <span class="article-metadata li-cite-author">
 
   <span>
-      Chongjiang Yuan</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="" data-original-title="Equal contribution"></i>, <span class="author-highlighted">
-      Jiarong Lin</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="" data-original-title="Equal contribution"></i>, <span>
+      Chongjiang Yuan</span>, <span class="author-highlighted">
+      Jiarong Lin</span>, <span>
       Zuhao Zou</span>, <span>
       Xiaoping Hong</span>, <span>
       Fu Zhang</span>
@@ -184,9 +184,6 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_r3live/cite.bib">
   Cite
 </a>
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ziv-lin/r3live_dataset" target="_blank" rel="noopener">
-    Dataset</a>
   
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=j5fT8NE5fdg" target="_blank" rel="noopener">
     Video-1</a>
