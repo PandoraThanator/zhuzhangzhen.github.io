@@ -51,8 +51,6 @@ College of Control Science and Engineering. My research interests lie in the are
   
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  - *
-
  
 
   <span class="article-metadata li-cite-author">
@@ -99,7 +97,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
 
   <span class="article-metadata li-cite-author">
@@ -143,7 +140,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
 
   <span class="article-metadata li-cite-author">
@@ -193,7 +189,6 @@ College of Control Science and Engineering. My research interests lie in the are
 </div>
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
 
   <span class="article-metadata li-cite-author">
@@ -243,7 +238,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
 
   <span class="article-metadata li-cite-author">
@@ -284,7 +278,6 @@ College of Control Science and Engineering. My research interests lie in the are
 </div>
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
 
   <span class="article-metadata li-cite-author">
@@ -328,7 +321,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   <span class="article-metadata li-cite-author">
     
@@ -368,7 +360,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   <span class="article-metadata li-cite-author">
     
@@ -406,7 +397,6 @@ College of Control Science and Engineering. My research interests lie in the are
 </div>
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
 
   <span class="article-metadata li-cite-author">
