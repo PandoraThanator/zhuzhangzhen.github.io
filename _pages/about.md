@@ -63,7 +63,7 @@ College of Control Science and Engineering. My research interests lie in the are
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://www.hku.hk/" target="_blank" rel="noopener"><img src="/media/icons/brands/hku_logo.svg" width="56px" height="56px" alt="The university of Hong Kong (HKU)" loading="lazy"></a></div>
+            <div class="mr-2 mb-2"><a href="https://www.hku.hk/" target="_blank" rel="noopener"><img src="../images/zhuzhangzhen.png" width="56px" height="56px" alt="The university of Hong Kong (HKU)" loading="lazy"></a></div>
             <div>
 
               <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate</div>
