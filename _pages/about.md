@@ -47,7 +47,7 @@ College of Control Science and Engineering. My research interests lie in the are
             <div class="mr-2 mb-2"><a href="https://www.hku.hk/" target="_blank" rel="noopener"><img src="../images/ZJU_Logo.png" width="56px" height="56px" alt="College of Control Science and Engineering, Zhejiang University, Hangzhou" loading="lazy"></a></div>
             <div>
 
-              <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate</div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate of Control Science and Engineering </div>
               <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.hku.hk/" target="_blank" rel="noopener">The university of Hong Kong (HKU)</a></div>
               <div class="text-muted exp-meta">
                 2018.09 - Present
@@ -75,18 +75,13 @@ College of Control Science and Engineering. My research interests lie in the are
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://en.uestc.edu.cn/" target="_blank" rel="noopener"><img src="../images/NUAA_Logo.png" width="56px" height="56px" alt="University of Electronic Science and Technology of China (UESTC)" loading="lazy"></a></div>
+            <div class="mr-2 mb-2"><a href="https://en.uestc.edu.cn/" target="_blank" rel="noopener"><img src="../images/NUAA_Logo.png" width="56px" height="56px" alt="Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing." loading="lazy"></a></div>
             <div>
 
-              <div class="section-subheading card-title exp-title text-muted my-0">Bachelor of Engineering</div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Bachelor of Mechanical and Electrical Engineering</div>
               <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://en.uestc.edu.cn/" target="_blank" rel="noopener">University of Electronic Science and Technology of China (UESTC)</a></div>
               <div class="text-muted exp-meta">
-                September 2011 –
-                
-                  July 2015
-                
-                  <span class="middot-divider"></span>
-                  <span>Cheng Du</span>
+                2014.09 - 2018.06
                 
               </div>
             </div>
