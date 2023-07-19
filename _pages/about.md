@@ -27,41 +27,6 @@ College of Control Science and Engineering. My research interests lie in the are
 - *2018.09 - 2023.07 (now)*, PhD Candidate, College of Control Science and Engineering, Zhejiang University, Hangzhou. 
 - *2014.09 - 2018.06*, Undergraduate, Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing.
 
-
-<div class="card">
-        <div class="card-body">
-          <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://www.hku.hk/" target="_blank" rel="noopener"><img src="/media/icons/brands/hku_logo.svg" width="56px" height="56px" alt="The university of Hong Kong (HKU)" loading="lazy"></a></div>
-            <div>
-          
-
-              <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate</div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.hku.hk/" target="_blank" rel="noopener">The university of Hong Kong (HKU)</a></div>
-              <div class="text-muted exp-meta">
-                January 2019 –
-                
-                  Present
-                
-                
-                  <span class="middot-divider"></span>
-                  <span>Hong Kong</span>
-                
-              </div>
-            </div>
-          </div>
-          
-
-          <div class="card-text"><p>Research interests include:</p>
-<ul>
-<li>LiDAR SLAM</li>
-<li>Sensor Fusion</li>
-<li>3D reconstruction</li>
-</ul>
-</div>
-        </div>
-      </div>
-      
-
   
 <section id="section-experience" class="home-section wg-experience  ">
  <div class="home-section-bg ">
@@ -79,18 +44,13 @@ College of Control Science and Engineering. My research interests lie in the are
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://www.hku.hk/" target="_blank" rel="noopener"><img src="../images/ZJU_Logo.png" width="56px" height="56px" alt="The university of Hong Kong (HKU)" loading="lazy"></a></div>
+            <div class="mr-2 mb-2"><a href="https://www.hku.hk/" target="_blank" rel="noopener"><img src="../images/ZJU_Logo.png" width="56px" height="56px" alt="College of Control Science and Engineering, Zhejiang University, Hangzhou" loading="lazy"></a></div>
             <div>
 
               <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate</div>
               <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.hku.hk/" target="_blank" rel="noopener">The university of Hong Kong (HKU)</a></div>
               <div class="text-muted exp-meta">
-                January 2019 –
-                
-                  Present
-                
-                  <span class="middot-divider"></span>
-                  <span>Hong Kong</span>
+                2018.09 - Present
                 
               </div>
             </div>
@@ -98,9 +58,9 @@ College of Control Science and Engineering. My research interests lie in the are
 
           <div class="card-text"><p>Research interests include:</p>
 <ul>
-<li>LiDAR SLAM</li>
-<li>Sensor Fusion</li>
-<li>3D reconstruction</li>
+<li>Nonlinear Adaptive High Order Sliding Mode Control / Observer</li>
+<li>Time-Varying Input Delay Systems / Nonlinear Model Predictive Control</li>
+<li>Discrete-Time Robust Event-Triggered Control</li>
 </ul>
 </div>
         </div>
