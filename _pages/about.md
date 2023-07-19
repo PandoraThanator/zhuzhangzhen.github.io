@@ -26,6 +26,226 @@ College of Control Science and Engineering. My research interests lie in the are
 # 📖 Educations
 - *2018.09 - 2023.07 (now)*, PhD Candidate, College of Control Science and Engineering, Zhejiang University, Hangzhou. 
 - *2014.09 - 2018.06*, Undergraduate, Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing.
+  
+<section id="section-experience" class="home-section wg-experience  ">
+ <div class="home-section-bg ">
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  ">
+
+        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+          <h1 class="mb-0">Educations</h1>
+          
+        </div>
+
+<div class="col-12 col-lg-8">
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.hku.hk/" target="_blank" rel="noopener"><img src="/media/icons/brands/hku_logo.svg" width="56px" height="56px" alt="The university of Hong Kong (HKU)" loading="lazy"></a></div>
+            <div>
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.hku.hk/" target="_blank" rel="noopener">The university of Hong Kong (HKU)</a></div>
+              <div class="text-muted exp-meta">
+                January 2019 –
+                
+                  Present
+                
+                  <span class="middot-divider"></span>
+                  <span>Hong Kong</span>
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="card-text"><p>Research interests include:</p>
+<ul>
+<li>LiDAR SLAM</li>
+<li>Sensor Fusion</li>
+<li>3D reconstruction</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://hkust.edu.hk/" target="_blank" rel="noopener"><img src="/media/icons/brands/hkust_logo.svg" width="56px" height="56px" alt="Hong Kong University of Science and Technology (HKUST)" loading="lazy"></a></div>
+            <div>
+            
+              <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. student</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://hkust.edu.hk/" target="_blank" rel="noopener">Hong Kong University of Science and Technology (HKUST)</a></div>
+              <div class="text-muted exp-meta">
+                August 2018 –
+                
+                  January 2019
+                
+                  <span class="middot-divider"></span>
+                  <span>Hong Kong</span>
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="card-text"><p>Research interests include:</p>
+<ul>
+<li>UAV motion planning and control</li>
+<li>Deep reinforcement learning</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.dji.com/" target="_blank" rel="noopener"><img src="/media/icons/brands/dji.svg" width="56px" height="56px" alt="DaJiang Innovation (DJI)" loading="lazy"></a></div>
+            <div>
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Computer Vision Engineer</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.dji.com/" target="_blank" rel="noopener">DaJiang Innovation (DJI)</a></div>
+              <div class="text-muted exp-meta">
+                August 2015 –
+                
+                  July 2018
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Shen Zhen</span>
+                
+              </div>
+            </div>
+          </div>
+          
+          <div class="card-text"><p>In DJI, I worked for:</p>
+<ul>
+<li>Factory automation production-line for Drone <a href="https://www.dji.com/phantom-4" target="_blank" rel="noopener"><em>Phantom 4</em></a>, <a href="https://www.dji.com/mavic" target="_blank" rel="noopener"><em>Mavic Pro</em></a>, <a href="https://www.dji.com/inspire-2" target="_blank" rel="noopener"><em>Inspire 2</em></a>, and <a href="https://www.dji.com/spark" target="_blank" rel="noopener"><em>Spark</em></a>.</li>
+<li>Drone’s sensors (i.e., cameras, IMU) calibration</li>
+<li>Control and navigation algorithm for drone <a href="https://www.dji.com/mavic-air" target="_blank" rel="noopener"><em>Mavic Air</em></a>, <a href="https://www.dji.com/spark" target="_blank" rel="noopener"><em>Spark</em></a>, <a href="https://store.dji.com/product/tello" target="_blank" rel="noopener"><em>Tello</em></a>, and <a href="https://www.dji.com/mavic-2" target="_blank" rel="noopener"><em>Mavic II</em></a>.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://en.uestc.edu.cn/" target="_blank" rel="noopener"><img src="/media/icons/brands/UESTC.svg" width="56px" height="56px" alt="University of Electronic Science and Technology of China (UESTC)" loading="lazy"></a></div>
+            <div>
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Bachelor of Engineering</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://en.uestc.edu.cn/" target="_blank" rel="noopener">University of Electronic Science and Technology of China (UESTC)</a></div>
+              <div class="text-muted exp-meta">
+                September 2011 –
+                
+                  July 2015
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Cheng Du</span>
+                
+              </div>
+            </div>
+          </div>
+          
+          <div class="card-text"><p>Specialization:</p>
+<ul>
+<li>Optical Information Science and Technology</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+  
+    </div>
+  
+
+  </div>
+</section>
 <p>
   <br />
   <br />
