@@ -42,8 +42,8 @@ College of Control Science and Engineering. My research interests lie in the are
           <div class="d-flex align-content-start">
             <div class="mr-2 mb-2"><a href="https://www.zju.edu.cn/" target="_blank" rel="noopener"><img src="../images/ZJU_Logo.png" width="56px" height="56px" alt="College of Control Science and Engineering, Zhejiang University, Hangzhou" loading="lazy"></a></div>
             <div>
-              <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate of Control Science and Engineering </div>
               <div class="text-muted exp-meta"> 2018.09 - Present </div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate of Control Science and Engineering </div>
               <div class="section-subheading card-title exp-company text-muted my-0"><a href="http://www.cse.zju.edu.cn/" target="_blank" rel="noopener">College of Control Science and Engineering, Zhejiang University, Hangzhou</a></div>
             </div>
           </div>
@@ -69,27 +69,25 @@ College of Control Science and Engineering. My research interests lie in the are
           <div class="d-flex align-content-start">
             <div class="mr-2 mb-2"><a href="http://nuaa.edu.cn/" target="_blank" rel="noopener"><img src="../images/NUAA_Logo.png" width="56px" height="56px" alt="Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing." loading="lazy"></a></div>
             <div>
-              <div class="section-subheading card-title exp-title text-muted my-0">Bachelor of Mechanical and Electrical Engineering</div>
               <div class="text-muted exp-meta"> 2014.09 - 2018.06 </div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Bachelor of Mechanical and Electrical Engineering</div>
               <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://changkong.nuaa.edu.cn/" target="_blank" rel="noopener">Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing</a></div> </div>
           </div>
           
-          <div class="card-text"><p>Specialization:</p>
+          <div class="card-text"><p>Research interests include:</p>
 <ul>
-<li>Optical Information Science and Technology</li>
+<li>Control and Design of Unmanned Aerial Vehicles</li>
+<li>Design of Complex Mechatronic Systems</li>
 </ul>
 </div>
         </div>
       </div>
     </div>
-  </div>
-  
-  
+  </div> 
 </div>
   
     </div>
   
-
   </div>
 </section>
 <p>
@@ -128,12 +126,9 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_immesh/cite.bib">
   Cite
 </a>
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hku-mars/ImMesh" target="_blank" rel="noopener">
-    Code on Github (★ 0.2K🆕)</a>    
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
-    Video</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
+  Video</a>
 
 </p>
 
