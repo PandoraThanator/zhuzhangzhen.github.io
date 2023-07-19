@@ -32,14 +32,8 @@ College of Control Science and Engineering. My research interests lie in the are
    
  </div>
   <div class="container">
-
   
     <div class="row  ">
-
-        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-          <h1 class="mb-0">Educations</h1>
-          
-        </div>
 
 <div class="col-12 col-lg-8">
   
