@@ -103,7 +103,6 @@ College of Control Science and Engineering. My research interests lie in the are
 # 📝 Publications 
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   <span class="article-metadata li-cite-author">
     
