@@ -24,6 +24,19 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 # 📖 Educations
+
+<div class="paper-logo"><div class="paper-logo-image"><div><div class="badge">NeurIPS 2019</div><img src="../images/ZJU_Logo.png" alt="sym" width="100%"></div></div>
+<div class="paper-logo-text">
+  
+            <div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate of Control Science and Engineering </div>
+              <div class="text-muted exp-meta"> 2018.09 - Present </div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="http://www.cse.zju.edu.cn/" target="_blank" rel="noopener">College of Control Science and Engineering, Zhejiang University, Hangzhou</a></div>
+            </div>
+</div>
+
+
+
 <section id="section-experience" class="home-section wg-experience  ">
  <div class="home-section-bg ">
    
