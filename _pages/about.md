@@ -9,7 +9,7 @@ redirect_from:
 ---
 
  I am Zhangzhen Zhu (朱张赈), a Ph.D. Candidate at ZheJiang University, with the State Key Laboratory of Industrial Control Technology,
-College of Control Science and Engineering. My research interests lie in the areas of robust and nonlinear control, in particular, with emphasis on Adaptive High Order Sliding Mode Control/Observer, Time-Varying Input Delay Systems/ Nonlinear Model Predictive Control, Discrete-Time Event-Triggered Control and their applications to complex real systems, including unmanned aerial vehicles and brushless DC motors (see my Publication list for details). 
+College of Control Science and Engineering. My research interests lie in the areas of robust and optimal control and their applications to real complex nonlinear systems, including unmanned aerial vehicles and brushless DC motors (see my Publication list for details). 
 
  In addition to my academic pursuits, I also possess extensive experience in the development of complex Mechatronic systems from scratch (see my Projects list for details), including mechanical system realization, circuit system customization, system modeling and identification, and efficient code deployment. I believe that the familiarity with the hardware systems will effectively enhance control engineers' comprehension of the theoretical research, and to a certain extent, eliminate vacuous mathematical academic research in the control society.
  
@@ -60,6 +60,7 @@ College of Control Science and Engineering. My research interests lie in the are
     </div>
   </div>
   
+<p> <br /> </p>  
   
   <div class="row experience">
     
@@ -90,10 +91,8 @@ College of Control Science and Engineering. My research interests lie in the are
   
   </div>
 </section>
-<p>
-  <br />
-  <br />
-</p>
+
+<p>  <br />  <br /> </p>
 
 
 
