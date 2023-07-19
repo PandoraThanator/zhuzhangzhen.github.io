@@ -588,7 +588,7 @@ College of Control Science and Engineering. My research interests lie in the are
          
         
         <a href="/project/proj_immesh/">
-          <img src="/project/proj_immesh/featured_hu7f436b084e9af9db6b1e6e2a03bb4ac2_1533052_540x0_resize_q100_h2_lanczos.webp" height="436" width="540" alt="🆕ImMesh: An Immediate LiDAR Localization and Meshing Framework" loading="lazy">
+          <img src="../images/zhuzhangzhen.png" height="436" width="540" alt="🆕ImMesh: An Immediate LiDAR Localization and Meshing Framework" loading="lazy">
         </a>
       
     </div>
@@ -791,7 +791,7 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 # 💻 Internships
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images/zhuzhangzhen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src="../images/zhuzhangzhen.png" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2016.10 - 2017.06*, [Lorem](https://github.com/), NanJing.
 <p>
