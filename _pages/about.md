@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
- I am Zhangzhen Zhu (朱张赈), a Ph.D. Candidate at ZheJiang University, with the State Key Laboratory of Industrial Control Technology. My research interests lie in the areas of robust and predictive control, and their applications to real complex nonlinear systems, including unmanned aerial vehicles and brushless DC motors (see my Publications for details). 
+ I am Zhangzhen Zhu (朱张赈), a Ph.D. Candidate at ZheJiang University, with the State Key Laboratory of Industrial Control Technology. My research interests lie in the areas of robust and predictive control, system modeling and identification, and their applications to real complex nonlinear systems, including unmanned aerial vehicles and brushless DC motors (see my Publications for details). 
 
- In addition to my academic pursuits, I also possess extensive experience in the development of complex Mechatronic systems from scratch (see my Projects for details), including mechanical system realization, circuit system customization, system modeling and identification, and efficient code deployment. I believe that the familiarity with the hardware systems will effectively enhance control engineers' comprehension of the theoretical research, and to a certain extent, eliminate vacuous mathematical academic research in the control society.
+ In addition to my academic pursuits, I also possess extensive experience in the development of complex Mechatronic systems from scratch (see my Projects for details), including mechanical system realization, circuit system customization and efficient code deployment. I believe that the familiarity with the hardware systems will effectively enhance control engineers' comprehension of the theoretical research, and to a certain extent, eliminate vacuous mathematical academic research in the control society.
  
  I am dedicated to producing high-quality research and making meaningful contributions to both academics and industrial societies, and making progress together with an excellent team.
 
@@ -146,7 +146,7 @@ redirect_from:
 
 # 💻 Projects
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2019</div><img src="images/fs.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2019</div><img src="../images/uav.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
     <p><a href="https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf">FastSpeech: Fast, Robust and Controllable Text to Speech</a> <br>
