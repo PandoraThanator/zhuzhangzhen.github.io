@@ -24,10 +24,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 # 📖 Educations
-- *2018.09 - 2023.07 (now)*, PhD Candidate, College of Control Science and Engineering, Zhejiang University, Hangzhou. 
-- *2014.09 - 2018.06*, Undergraduate, Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing.
-
-  
 <section id="section-experience" class="home-section wg-experience  ">
  <div class="home-section-bg ">
    
@@ -44,15 +40,11 @@ College of Control Science and Engineering. My research interests lie in the are
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://www.hku.hk/" target="_blank" rel="noopener"><img src="../images/ZJU_Logo.png" width="56px" height="56px" alt="College of Control Science and Engineering, Zhejiang University, Hangzhou" loading="lazy"></a></div>
+            <div class="mr-2 mb-2"><a href="https://www.zju.edu.cn/" target="_blank" rel="noopener"><img src="../images/ZJU_Logo.png" width="56px" height="56px" alt="College of Control Science and Engineering, Zhejiang University, Hangzhou" loading="lazy"></a></div>
             <div>
-
               <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate of Control Science and Engineering </div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.cse.zju.edu.cn/" target="_blank" rel="noopener">College of Control Science and Engineering, Zhejiang University, Hangzhou</a></div>
-              <div class="text-muted exp-meta">
-                2018.09 - Present
-                
-              </div>
+              <div class="text-muted exp-meta"> 2018.09 - Present </div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="http://www.cse.zju.edu.cn/" target="_blank" rel="noopener">College of Control Science and Engineering, Zhejiang University, Hangzhou</a></div>
             </div>
           </div>
 
@@ -75,16 +67,11 @@ College of Control Science and Engineering. My research interests lie in the are
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://changkong.nuaa.edu.cn/" target="_blank" rel="noopener"><img src="../images/NUAA_Logo.png" width="56px" height="56px" alt="Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing." loading="lazy"></a></div>
+            <div class="mr-2 mb-2"><a href="http://nuaa.edu.cn/" target="_blank" rel="noopener"><img src="../images/NUAA_Logo.png" width="56px" height="56px" alt="Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing." loading="lazy"></a></div>
             <div>
-
               <div class="section-subheading card-title exp-title text-muted my-0">Bachelor of Mechanical and Electrical Engineering</div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://changkong.nuaa.edu.cn/" target="_blank" rel="noopener">Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing</a></div>
-              <div class="text-muted exp-meta">
-                2014.09 - 2018.06
-                
-              </div>
-            </div>
+              <div class="text-muted exp-meta"> 2014.09 - 2018.06 </div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://changkong.nuaa.edu.cn/" target="_blank" rel="noopener">Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing</a></div> </div>
           </div>
           
           <div class="card-text"><p>Specialization:</p>
