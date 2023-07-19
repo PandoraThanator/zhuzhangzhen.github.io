@@ -131,7 +131,6 @@ College of Control Science and Engineering. My research interests lie in the are
  </div>
   <div class="container">
 
-  
     <div class="row  ">
 
 <div class="col-12 col-lg-8">
@@ -139,7 +138,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
  
-
   <span class="article-metadata li-cite-author">
     
   <span class="author-highlighted">
@@ -157,7 +155,6 @@ College of Control Science and Engineering. My research interests lie in the are
   
   <p>
 
-
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/ImMesh.pdf" target="_blank" rel="noopener">
   PDF
 </a>
@@ -166,16 +163,15 @@ College of Control Science and Engineering. My research interests lie in the are
   Cite
 </a>
 
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
     Video</a>
 
 </p>
 
 </div>
 
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 
   <span class="article-metadata li-cite-author">
 
@@ -189,7 +185,7 @@ College of Control Science and Engineering. My research interests lie in the are
   (2022).
   <a href="/publication/paper_std/">STD: Stable Triangle Descriptor for 3D place recognition</a>.
   Accepted to <em><strong>ICRA2023</strong></em>.
-  
+
   <p>
 
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/std.pdf" target="_blank" rel="noopener">
@@ -200,8 +196,7 @@ College of Control Science and Engineering. My research interests lie in the are
   Cite
 </a>
 
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/O-9iXn1ME3g" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/O-9iXn1ME3g" target="_blank" rel="noopener">
     Video</a>
 
 </p>
@@ -211,9 +206,7 @@ College of Control Science and Engineering. My research interests lie in the are
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 
-
   <span class="article-metadata li-cite-author">
-    
 
   <span class="author-highlighted">
       Jiarong Lin</span>, <span>
@@ -225,64 +218,21 @@ College of Control Science and Engineering. My research interests lie in the are
   
   <p>
 
-
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/r3live++.pdf" target="_blank" rel="noopener">
   PDF
 </a>
-
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_r3live_pp/cite.bib">
   Cite
 </a>
 
-
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/qXrnIfn-7yA" target="_blank" rel="noopener">
     Video</a>
 
-
-
-</p>
-
-  
-  
-</div>
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span class="author-highlighted">
-      Jiarong Lin</span>, <span>
-      Fu Zhang</span>
-  </span>
-  (2022).
-  <a href="/publication/paper_r3live/">R<mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="5" style="font-size: 119.6%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-msup><mjx-mi class="mjx-n"></mjx-mi><mjx-script style="vertical-align: 0.363em;"><mjx-mn class="mjx-n" size="s"><mjx-c class="mjx-c33"></mjx-c></mjx-mn></mjx-script></mjx-msup></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi></mi><mn>3</mn></msup></math></mjx-assistive-mml></mjx-container>LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package</a>.
-  Accepted to <em><strong>ICRA2022</strong></em>.
-  
-  <p>
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/r3live.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_r3live/cite.bib">
-  Cite
-</a>
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=j5fT8NE5fdg" target="_blank" rel="noopener">
-    Video-1</a>
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=4rjrrLgL3nk" target="_blank" rel="noopener">
-    Video-2</a>
-
 </p>
 
 </div>
+
 
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -304,7 +254,6 @@ College of Control Science and Engineering. My research interests lie in the are
   
   <p>
 
-
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/Fast_LIO_2.pdf" target="_blank" rel="noopener">
   PDF
 </a>
@@ -312,160 +261,13 @@ College of Control Science and Engineering. My research interests lie in the are
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_fast_lio2/cite.bib">
   Cite
 </a>  
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/iYCY6T79oNU" target="_blank" rel="noopener">
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/iYCY6T79oNU" target="_blank" rel="noopener">
     Video</a>
-
-</p>
-
-
-</div>
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span class="author-highlighted">
-      Jiarong Lin</span>, <span>
-      Chunran Zheng</span>, <span>
-      Wei Xu</span>, <span>
-      Fu Zhang</span>
-  </span>
-  (2021).
-  <a href="/publication/paper_r2live/">R<mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="6" style="font-size: 119.6%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-msup><mjx-mi class="mjx-n"></mjx-mi><mjx-script style="vertical-align: 0.363em;"><mjx-mn class="mjx-n" size="s"><mjx-c class="mjx-c32"></mjx-c></mjx-mn></mjx-script></mjx-msup></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi></mi><mn>2</mn></msup></math></mjx-assistive-mml></mjx-container>LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping</a>.
-  Accepted to <em><strong>RA-L2022</strong></em>.
-  
-  <p>
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/r2live.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_r2live/cite.bib">
-  Cite
-</a>
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=9lqRHmlN_MA" target="_blank" rel="noopener">
-    Video</a>
-
 </p>
 
 </div>
 
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span class="author-highlighted">
-      Jiarong Lin</span>, <span>
-      Xiyuan Liu</span>, <span>
-      Fu Zhang</span>
-  </span>
-  (2021).
-  <a href="/publication/paper_dc_loam/">A decentralized framework for simultaneous calibration, localization and mapping with multiple LiDARs</a>.
-  Accepted to <em><strong>IROS2021</strong></em>.
-  
-  <p>
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/ImMesh.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_dc_loam/cite.bib">
-  Cite
-</a>
- 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
-    Video</a>
-
-</p>
- 
-</div>
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span class="author-highlighted">
-      Jiarong Lin</span>, <span>
-      Fu Zhang</span>
-  </span>
-  (2020).
-  <a href="/publication/paper_loam_livox/">Loam_livox: A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR</a>.
-  Accepted to <em><strong>ICRA2020</strong></em>.
-  
-  <p>
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/loam_livox.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_loam_livox/cite.bib">
-  Cite
-</a>
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1AG4y1177z" target="_blank" rel="noopener">
-    Video</a>
-
-</p> 
-  
-</div>
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span class="author-highlighted">
-      Jiarong Lin</span>, <span>
-      Luqi Wang</span>, <span>
-      Fei Gao</span>, <span>
-      Shaojie Shen</span>, <span>
-      Fu Zhang</span>
-  </span>
-  (2020).
-  <a href="/publication/paper_cross_gap/">Flying through a narrow gap using neural network: an end-to-end planning and control approach</a>.
-  Accepted to <em><strong>IROS2020</strong></em>.
-  
-  <p>
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/ir_rl_cross_gap.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_cross_gap/cite.bib">
-  Cite
-</a>
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=-HXARYlhat4" target="_blank" rel="noopener">
-    Video</a>
-
-</p>
-  
-</div>
-
-
-</div>
-
-
-    </div>
-  
-  </div>
   
 </section>
 
