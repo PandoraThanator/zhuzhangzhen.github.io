@@ -35,65 +35,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
   
     <div class="row  ">
-    
-      
-        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-          <h1 class="mb-0">Featured Publications</h1>
-          
-        </div>
-      
-    
-  
-
-    
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 
 
 
@@ -108,14 +49,11 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
   
-    
-
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
-  
-  
+ 
 
   <span class="article-metadata li-cite-author">
     
@@ -156,7 +94,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
 </p>
 
-  
   
 </div>
 
@@ -519,7 +456,9 @@ College of Control Science and Engineering. My research interests lie in the are
   </div>
 </section>
 
-
+</p>
+</p>
+</p>
 
 
 
@@ -535,8 +474,6 @@ College of Control Science and Engineering. My research interests lie in the are
 
 
 <div class="col-12 ">
-
-    <span class="d-none default-project-filter">*</span>
 
     
     <div class="project-toolbar">
