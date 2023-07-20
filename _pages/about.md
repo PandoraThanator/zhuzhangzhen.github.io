@@ -104,8 +104,7 @@ redirect_from:
   <span class="author-highlighted">
       <strong>Zhangzhen Zhu (Oral)</strong></span>, <span>
       Yongliang Lin</span>, <span>
-      Yu Zhang</span>
-  </span>.
+      Yu Zhang</span>.
   Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs.
   <em><strong>Accepted to 22nd IFAC World Congress</strong></em>.
 <p>
@@ -157,6 +156,17 @@ redirect_from:
     Research </a>
 </p>
 
+  <span class="author-highlighted">
+      Yunhe Wang</span>, <span>
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Yu Zhang</span>.
+  Modeling and Control of a Novel Over-actuated Tri-rotor UAV.
+  <em><strong>accepted to International Conference on Unmanned Aircraft Systems 2020</strong></em>.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
+    PDF </a>
+</p>
 
 
   
