@@ -144,13 +144,16 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-    <p><a href="/_publications/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
-    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
+    <p> Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs <br>
+    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
-    <ul>
-      <li>FastSpeech is the first fully parallel end-to-end speech synthesis model.</li>
-      <li><strong>Academic Impact</strong>: This work is included by many famous speech synthesis open-source projects, such as <a href="https://github.com/espnet/espnet">ESPNet <img src="https://img.shields.io/github/stars/espnet/espnet?style=social" alt=""></a>. Our work are promoted by more than 20 media and forums, such as <a href="https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ">机器之心</a>、<a href="https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu">InfoQ</a>.</li>
-    </ul>
+    <p>
+        RSETC (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
+        systems, it ensures robust performance under various perturbations and alleviating communication
+        burden simultaneously. A novel fully actuated multirotors applied this method shows great
+        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
+        without continuous background sensor monitoring.
+    </p>
   </div>
 </div>
 
