@@ -197,19 +197,17 @@ redirect_from:
 
 # 💾 Patent 
 
-  <span class="author-highlighted">
-      Yu Zhang</span>, <span>
-      <strong>Zhangzhen Zhu </strong></span>, <span>
-      Ping Li</span>.
-  Multi-degree-of-freedom rotor system, rotor system for preventing entanglement, and unmanned aerial vehicle.
-  <em><strong>CN108945395</strong></em>.
- 
-  <span class="author-highlighted">
-      Yicheng Zeng</span>, <span>
-      <strong>Zhangzhen Zhu </strong></span>, <span>
-      Yu Zhang</span>.
-  Vector propulsion device and aircraft.
-  <em><strong>CN115806071A</strong></em>.
+-* Yu Zhang</span>, <span>
+<strong>Zhangzhen Zhu</strong></span>, <span>
+Ping Li
+Multi-degree-of-freedom rotor system, rotor system for preventing entanglement, and unmanned aerial vehicle.
+<em><strong>CN108945395</strong></em>.
+
+-* Yicheng Zeng</span>, <span>
+<strong>Zhangzhen Zhu</strong></span>, <span>
+Yu Zhang
+Vector propulsion device and aircraft.
+<em><strong>CN115806071A</strong></em>.
 
 <p>  <br />  <br /> </p>
 
