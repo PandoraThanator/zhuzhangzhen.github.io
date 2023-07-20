@@ -102,17 +102,13 @@ redirect_from:
   <span class="article-metadata li-cite-author">
     
   <span class="author-highlighted">
-      Jiarong Lin</span>, <span>
-      Chongjiang Yuan</span>, <span>
-      Yixi Cai</span>, <span>
-      Haotian Li</span>, <span>
-      Yuying Zou</span>, <span>
-      Xiaoping Hong</span>, <span>
-      Fu Zhang</span>
+      <em><strong>Zhangzhen Zhu</strong></em></span>, <span>
+      Yongliang Lin</span>, <span>
+      Yu Zhang</span>
   </span>
   (2023).
-  <a href="/publication/paper_immesh/">ImMesh: An Immediate LiDAR Localization and Meshing Framework</a>.
-  <em><strong>Under review</strong></em>.
+  <a href="/publication/paper_immesh/">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a>.
+  <em><strong>Accepted to 22nd IFAC World Congress</strong></em>.
   
   <p>
 
