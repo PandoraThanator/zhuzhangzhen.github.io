@@ -108,28 +108,28 @@ redirect_from:
   </span>.
   Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs.
   <em><strong>Accepted to 22nd IFAC World Congress</strong></em>.
+
+  <span class="author-highlighted">
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Yu Zhang</span>, <span>
+      Ping Li</span>
+  </span>.
+  Robust full order sliding mode control for nonlinear systems under time-varying input delay.
+  <em><strong>Under review</strong></em>.
+<p>
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
+    PDF </a>
+    <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/_publications/paper_immesh/cite.bib">
+    Cite </a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
+    target="_blank" rel="noopener"> Video</a>
+
   
-  <p>
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
-  PDF                                                            
-</a>
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/_publications/paper_immesh/cite.bib">
-  Cite
-</a>
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4" target="_blank" rel="noopener">
-  Video</a>
-
 </p>
-
 </div>
 
-<p>
-  <br />
-  <br />
-</p>
+<p>  <br />  <br /> </p>
   
 
 
