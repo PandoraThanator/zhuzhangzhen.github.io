@@ -147,8 +147,6 @@ redirect_from:
     <p><a href="/_publications/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
 
-    <p><a href="https://speechresearch.github.io/fastspeech/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="4FA6C0AAAAAJ:qjMakFHDy7sC">| </span></strong></p>
-
     <ul>
       <li>FastSpeech is the first fully parallel end-to-end speech synthesis model.</li>
       <li><strong>Academic Impact</strong>: This work is included by many famous speech synthesis open-source projects, such as <a href="https://github.com/espnet/espnet">ESPNet <img src="https://img.shields.io/github/stars/espnet/espnet?style=social" alt=""></a>. Our work are promoted by more than 20 media and forums, such as <a href="https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ">机器之心</a>、<a href="https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu">InfoQ</a>.</li>
