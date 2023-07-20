@@ -102,12 +102,12 @@ redirect_from:
   <span class="article-metadata li-cite-author">
     
   <span class="author-highlighted">
-      <strong>Zhangzhen Zhu</strong></span>, <span>
+      <strong>Zhangzhen Zhu (Oral)</strong></span>, <span>
       Yongliang Lin</span>, <span>
       Yu Zhang</span>
   </span>
   (2023).
-  <a href="/publication/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a>.
+  <a href="/_publication/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a>.
   <em><strong>Accepted to 22nd IFAC World Congress</strong></em>.
   
   <p>
@@ -116,7 +116,7 @@ redirect_from:
   PDF
 </a>
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/publication/paper_immesh/cite.bib">
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/_publication/paper_immesh/cite.bib">
   Cite
 </a>
   
@@ -145,7 +145,7 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-    <p><a href="/publication/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    <p><a href="/_publication/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
 
     <p><a href="https://speechresearch.github.io/fastspeech/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="4FA6C0AAAAAJ:qjMakFHDy7sC">| </span></strong></p>
