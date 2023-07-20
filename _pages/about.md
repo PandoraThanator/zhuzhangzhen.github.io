@@ -106,12 +106,12 @@ redirect_from:
       Yongliang Lin</span>, <span>
       Yu Zhang</span>
   </span>.
-  <a>Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a>.
+  Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs.
   <em><strong>Accepted to 22nd IFAC World Congress</strong></em>.
   
   <p>
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/_publication/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="../_publication/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
