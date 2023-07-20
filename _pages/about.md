@@ -164,8 +164,22 @@ redirect_from:
   <em><strong>accepted to International Conference on Unmanned Aircraft Systems 2020</strong></em>.
 <p>
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icuas.pdf" target="_blank" rel="noopener">
     PDF </a>
+</p>
+
+  <span class="author-highlighted">
+      Jianqiao Yu</span>, <span>
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Junyuan Lu</span>, <span>
+      Sicheng Yin</span>, <span>
+      Yu Zhang</span>.
+ Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot.
+  <em><strong>Under review (second round)</strong></em>, submitted to Robotics and Automation Letters.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
+    target="_blank" rel="noopener"> Video</a>
 </p>
 
 
