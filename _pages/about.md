@@ -111,7 +111,7 @@ redirect_from:
   
   <p>
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="../_publications/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
   PDF                                                            
 </a>
 
