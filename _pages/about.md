@@ -161,7 +161,7 @@ redirect_from:
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Yu Zhang</span>.
   Modeling and Control of a Novel Over-actuated Tri-rotor UAV.
-  <em><strong>accepted to International Conference on Unmanned Aircraft Systems 2020</strong></em>.
+  <em><strong>Accepted to </strong></em>International Conference on Unmanned Aircraft Systems 2020.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icuas.pdf" target="_blank" rel="noopener">
@@ -174,7 +174,7 @@ redirect_from:
       Junyuan Lu</span>, <span>
       Sicheng Yin</span>, <span>
       Yu Zhang</span>.
- Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot.
+  Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot.
   <em><strong>Under review (second round)</strong></em>, submitted to Robotics and Automation Letters.
 <p>
   
@@ -195,7 +195,27 @@ redirect_from:
 
 
 
+# 💾 Patent 
+ 
+  <span class="author-highlighted">
+      <strong>Zhangzhen Zhu (Oral)</strong></span>, <span>
+      Yongliang Lin</span>, <span>
+      Yu Zhang</span>.
+  Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs.
+  <em><strong>Accepted to 22nd IFAC World Congress</strong></em>.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
+    PDF </a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
+    target="_blank" rel="noopener"> Video</a>
+</p>
 
+<p>  <br />  <br /> </p>
+
+
+
+  
 # 💻 Projects
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
