@@ -99,7 +99,7 @@ redirect_from:
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 
-  <span class="article-metadata li-cite-author">
+  <!-- <span class="article-metadata li-cite-author"> -->
     
   <span class="author-highlighted">
       <strong>Zhangzhen Zhu (Oral)</strong></span>, <span>
@@ -120,8 +120,7 @@ redirect_from:
   <span class="author-highlighted">
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Yu Zhang</span>, <span>
-      Ping Li</span>
-  </span>.
+      Ping Li</span>.
   Robust full order sliding mode control for nonlinear systems under time-varying input delay.
   <em><strong>Under review</strong></em>.
 <p>
