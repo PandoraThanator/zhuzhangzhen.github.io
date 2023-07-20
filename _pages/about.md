@@ -102,12 +102,12 @@ redirect_from:
   <span class="article-metadata li-cite-author">
     
   <span class="author-highlighted">
-      <em><strong>Zhangzhen Zhu</strong></em></span>, <span>
+      <strong>Zhangzhen Zhu</strong></span>, <span>
       Yongliang Lin</span>, <span>
       Yu Zhang</span>
   </span>
   (2023).
-  <a href="/publication/paper_immesh/">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a>.
+  <a href="/publication/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a>.
   <em><strong>Accepted to 22nd IFAC World Congress</strong></em>.
   
   <p>
@@ -142,13 +142,13 @@ redirect_from:
 
 # 💻 Projects
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/uav.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-    <p><a href="https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf">FastSpeech: Fast, Robust and Controllable Text to Speech</a> <br>
-<strong>Yi Ren</strong>, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu</p>
+    <p><a href="/publication/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
 
-    <p><a href="https://speechresearch.github.io/fastspeech/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="4FA6C0AAAAAJ:qjMakFHDy7sC">| Citations: 799</span></strong></p>
+    <p><a href="https://speechresearch.github.io/fastspeech/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="4FA6C0AAAAAJ:qjMakFHDy7sC">| </span></strong></p>
 
     <ul>
       <li>FastSpeech is the first fully parallel end-to-end speech synthesis model.</li>
