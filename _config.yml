@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,13 +83,13 @@ author:
   name             : "Zhangzhen, Zhu"
   avatar           : "zhuzhangzhen.png"
   bio              : "ZheJiang University"
-  location         : "http://www.cse.zju.edu.cn/"
+  location         : "HangZhou"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "zhuzhangzhen@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  curriculum vitae : "http://yourfullgooglescholarurl.com"
+  curriculum vitae : #"http://yourfullgooglescholarurl.com"
   uri              :
   bitbucket        :
   codepen          :
