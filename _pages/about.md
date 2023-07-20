@@ -105,14 +105,13 @@ redirect_from:
       <strong>Zhangzhen Zhu (Oral)</strong></span>, <span>
       Yongliang Lin</span>, <span>
       Yu Zhang</span>
-  </span>
-  (2023).
-  <a href="/_publication/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a>.
+  </span>.
+  <a>Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a>.
   <em><strong>Accepted to 22nd IFAC World Congress</strong></em>.
   
   <p>
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/ImMesh.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/_publication/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
