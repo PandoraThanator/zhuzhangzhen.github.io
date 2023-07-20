@@ -111,11 +111,11 @@ redirect_from:
   
   <p>
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="../_publication/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="../_publications/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/_publication/paper_immesh/cite.bib">
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/_publications/paper_immesh/cite.bib">
   Cite
 </a>
   
@@ -144,7 +144,7 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-    <p><a href="/_publication/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    <p><a href="/_publications/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
 
     <p><a href="https://speechresearch.github.io/fastspeech/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="4FA6C0AAAAAJ:qjMakFHDy7sC">| </span></strong></p>
