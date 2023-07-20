@@ -122,7 +122,7 @@ redirect_from:
       Yongliang Lin</span>, <span>
       Yu Zhang</span>.
   Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems.
-  <em><strong>Under review (second round), Transactions on Circuits and Systems II</strong></em>.
+  <em><strong>Under review (second round)</strong></em>, submitted to Transactions on Circuits and Systems II.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
@@ -134,8 +134,23 @@ redirect_from:
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Yu Zhang</span>, <span>
       Ping Li</span>.
+  Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV. 
+  <em><strong>Under review</strong></em>, submitted to Transactions on Industrial Electronics.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
+    Research </a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
+    target="_blank" rel="noopener"> Video</a>
+</p>
+
+
+  <span class="author-highlighted">
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Yu Zhang</span>, <span>
+      Ping Li</span>.
   Robust full order sliding mode control for nonlinear systems under time-varying input delay.
-  <em><strong>Under review, Transactions on Automatic Control</strong></em>.
+  <em><strong>Under review</strong></em>, submitted to Transactions on Automatic Control.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
