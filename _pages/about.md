@@ -146,7 +146,7 @@ redirect_from:
 
 # 💻 Projects
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2019</div><img src="../images/uav.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/uav.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
     <p><a href="https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf">FastSpeech: Fast, Robust and Controllable Text to Speech</a> <br>
@@ -157,7 +157,6 @@ redirect_from:
     <ul>
       <li>FastSpeech is the first fully parallel end-to-end speech synthesis model.</li>
       <li><strong>Academic Impact</strong>: This work is included by many famous speech synthesis open-source projects, such as <a href="https://github.com/espnet/espnet">ESPNet <img src="https://img.shields.io/github/stars/espnet/espnet?style=social" alt=""></a>. Our work are promoted by more than 20 media and forums, such as <a href="https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ">机器之心</a>、<a href="https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu">InfoQ</a>.</li>
-      <li><strong>Industry Impact</strong>: FastSpeech has been deployed in <a href="https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911">Microsoft Azure TTS service</a> and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in <a href="https://resources.nvidia.com/events/GTC2020s21420">NVIDIA GTC2020</a>.</li>
     </ul>
   </div>
 </div>
@@ -173,16 +172,5 @@ redirect_from:
 
 
 # 💻 Internships
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src="../images/zhuzhangzhen.png" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2016.10 - 2017.06*, [Lorem](https://github.com/), NanJing.
-<p>
-  <br />
-  <br />
-</p>
-
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- *2016.10 - 2017.06*, NanJing TaoXun Aviation Technology, NanJing.
+<p>  <br /> </p>
