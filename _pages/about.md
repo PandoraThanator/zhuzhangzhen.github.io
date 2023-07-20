@@ -119,15 +119,31 @@ redirect_from:
 
   <span class="author-highlighted">
       <strong>Zhangzhen Zhu </strong></span>, <span>
-      Yu Zhang</span>, <span>
-      Ping Li</span>.
-  Robust full order sliding mode control for nonlinear systems under time-varying input delay.
-  <em><strong>Under review</strong></em>.
+      Yongliang Lin</span>, <span>
+      Yu Zhang</span>.
+  Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems.
+  <em><strong>Under review (second round), Transactions on Circuits and Systems II</strong></em>.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
     Research </a>
 </p>
+
+
+  <span class="author-highlighted">
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Yu Zhang</span>, <span>
+      Ping Li</span>.
+  Robust full order sliding mode control for nonlinear systems under time-varying input delay.
+  <em><strong>Under review, Transactions on Automatic Control</strong></em>.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
+    Research </a>
+</p>
+
+
+
   
 
 </div>
