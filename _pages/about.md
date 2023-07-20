@@ -196,20 +196,20 @@ redirect_from:
 
 
 # 💾 Patent 
+
+  <span class="author-highlighted">
+      Yu Zhang</span>, <span>
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Ping Li</span>.
+  Multi-degree-of-freedom rotor system, rotor system for preventing entanglement, and unmanned aerial vehicle.
+  <em><strong>CN108945395</strong></em>.
  
   <span class="author-highlighted">
-      <strong>Zhangzhen Zhu (Oral)</strong></span>, <span>
-      Yongliang Lin</span>, <span>
+      Yicheng Zeng</span>, <span>
+      <strong>Zhangzhen Zhu </strong></span>, <span>
       Yu Zhang</span>.
-  Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs.
-  <em><strong>Accepted to 22nd IFAC World Congress</strong></em>.
-<p>
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
-    PDF </a>
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
-    target="_blank" rel="noopener"> Video</a>
-</p>
+  Vector propulsion device and aircraft.
+  <em><strong>CN115806071A</strong></em>.
 
 <p>  <br />  <br /> </p>
 
