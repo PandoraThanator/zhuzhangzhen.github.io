@@ -83,7 +83,7 @@ author:
   name             : "Zhangzhen, Zhu"
   avatar           : "zhuzhangzhen.png"
   bio              : "State Key Laboratory of Industrial Control Technology, ZheJiang University"
-  location         : "HangZhou"
+  location         : #"HangZhou"
   employer         : "Born in 1995/11/02, SuZhou"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -98,24 +98,24 @@ author:
   facebook         : #"1995/11/02, SuZhou"
   foursquare       : #"1995/11/02, SuZhou"
   github           : #"academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
+  google_plus      : "(+86) 13777568959"
+  keybase          : "(+86) 13777568959"
+  instagram        : "(+86) 13777568959"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : "(+86) 13777568959"
+  linkedin         : "(+86) 13777568959"
   orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  pinterest        : "(+86) 13777568959"
+  soundcloud       : "(+86) 13777568959"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  steam            : "(+86) 13777568959"
+  tumblr           : "(+86) 13777568959"
   twitter          : #"replacethistwitterhandle"
-  vine             :
+  vine             : "(+86) 13777568959"
   weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  xing             : "(+86) 13777568959"
+  youtube          : "(+86) 13777568959"
+  wikipedia        : "(+86) 13777568959"
 
 
 # Reading Files
