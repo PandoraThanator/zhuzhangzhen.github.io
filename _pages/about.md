@@ -109,8 +109,7 @@ redirect_from:
   <em><strong>Accepted to 22nd IFAC World Congress</strong></em>.
 <p>
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
-    PDF </a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">PDF </a>
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
     target="_blank" rel="noopener"> Video</a>
 </p>
@@ -124,8 +123,7 @@ redirect_from:
   <em><strong>Under review (second round)</strong></em>, submitted to Transactions on Circuits and Systems II.
 <p>
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TCASII" target="_blank" rel="noopener">
-    Research </a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TCASII" target="_blank" rel="noopener">Research </a>
 </p>
 
 
@@ -137,7 +135,7 @@ redirect_from:
   <em><strong>Under review</strong></em>, submitted to Transactions on Industrial Electronics.
 <p>
   
-    <a href="./markdown#TIE" Research </a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TIE"> Research </a>
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
     target="_blank" rel="noopener"> Video</a>
 </p>
@@ -163,8 +161,7 @@ redirect_from:
   <em><strong>Accepted to </strong></em>International Conference on Unmanned Aircraft Systems 2020.
 <p>
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icuas.pdf" target="_blank" rel="noopener">
-    PDF </a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icuas.pdf" target="_blank" rel="noopener">PDF </a>
 </p>
 
   <span class="author-highlighted">
