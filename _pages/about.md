@@ -165,6 +165,17 @@ redirect_from:
 </p>
 
   <span class="author-highlighted">
+      Yunhe Wang</span>, <span>
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Yu Zhang</span>.
+  Backstepping Method and Control Allocation for a Fully-Actuated Tri-Rotor.
+  <em><strong>Accepted to </strong></em>International Conference on Guidance, Navigation and Control 2020.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icgnc.pdf" target="_blank" rel="noopener">PDF </a>
+</p>
+
+  <span class="author-highlighted">
       Jianqiao Yu</span>, <span>
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Junyuan Lu</span>, <span>
