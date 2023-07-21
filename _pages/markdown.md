@@ -27,13 +27,15 @@ redirect_from:
   </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><img src="../images/ifac_1.png" alt="sym" width="100%"></div></div>
-<div class="paper-box-text">  <div><img src="../images/ifac_2.png" alt="sym" width="100%"></div>   </div>
-</div>
+<table><tr>
+<td><img src="../images/ifac_1.png" border=0></td>
+<td><img src="../images/ifac_2.png" border=0></td>
+</tr></table>
 
-<div class="paper-box"><div class="paper-box-image"><div><img src="../images/ifac_3.png" alt="sym" width="100%"></div></div>
-<div class="paper-box-text">  <div><img src="../images/ifac_4.png" alt="sym" width="100%"></div>   </div>
-</div>
+<table><tr>
+<td><img src="../images/ifac_3.png" border=0></td>
+<td><img src="../images/ifac_4.png" border=0></td>
+</tr></table>
 
 <p>  <br /> </p>
 
