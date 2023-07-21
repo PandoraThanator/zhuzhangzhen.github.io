@@ -1,11 +1,11 @@
 # main links links
-main:
-  
-  #- title: "Talks"
-    #url: /talks/     
+main:   
     
   - title: "Projects & Research"
     url: /markdown/
+
+  - title: "Awards"
+    url: /talks/  
     
   - title: "CV"
     url: /cv/
