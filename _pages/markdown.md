@@ -14,7 +14,7 @@ redirect_from:
   
     <!-- <a name="TCAS">here is the redirected page</a> -->
   
-    <p> <a href="../files/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    <p> <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
     <p>
@@ -27,13 +27,16 @@ redirect_from:
   </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/ifac_1.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="../images/ifac_1.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">  <div><img src="../images/ifac_2.png" alt="sym" width="100%"></div>   </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/ifac_3.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="../images/ifac_3.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">  <div><img src="../images/ifac_4.png" alt="sym" width="100%"></div>   </div>
 </div>
+
+<p>  <br /> </p>
+
 
 
 
@@ -41,7 +44,7 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
     
-    <p> <a href="../files/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    <p> <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
     <p>
@@ -60,7 +63,7 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
     
-    <p> <a href="../files/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    <p> <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
     <p>
@@ -80,7 +83,7 @@ redirect_from:
   
     <!-- <a name="TIE">here is the redirected page</a> -->
   
-    <p> <a href="../files/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    <p> <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
     <p>
