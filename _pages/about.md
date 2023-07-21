@@ -137,7 +137,7 @@ redirect_from:
   <em><strong>Under review</strong></em>, submitted to Transactions on Industrial Electronics.
 <p>
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TIE" target="_blank" rel="noopener">
     Research </a>
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
     target="_blank" rel="noopener"> Video</a>
