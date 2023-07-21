@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
+💻 IFAC 2023 World Congress
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
@@ -29,6 +30,8 @@ redirect_from:
 
 
 
+💻 Transactions on Industrial Electronics
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
     
@@ -46,6 +49,8 @@ redirect_from:
 </div>
 
 
+
+💻 Transactions on Circuits and Systems II
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
