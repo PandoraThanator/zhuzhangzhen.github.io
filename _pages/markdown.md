@@ -68,7 +68,7 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
   
-    <a id="TIE">here is the redirected page</a>
+    <h1 id="TIE">here is the redirected page</h1>
   
     <p> <a href="../files/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
