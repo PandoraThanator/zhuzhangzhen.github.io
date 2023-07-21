@@ -231,10 +231,7 @@ redirect_from:
   </div>
 </div>
 
-<p>
-  <br />
-  <br />
-</p>
+<p>  <br />  <br /> </p>
 
 
 
