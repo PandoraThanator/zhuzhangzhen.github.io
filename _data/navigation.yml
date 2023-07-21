@@ -4,8 +4,8 @@ main:
   - title: "Projects & Research"
     url: /markdown/
 
-  - title: "Awards"
-    url: /talks/  
+  #- title: "Awards"
+  #  url: /talks/  
     
   - title: "CV"
     url: /cv/
