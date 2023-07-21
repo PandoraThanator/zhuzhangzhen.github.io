@@ -211,8 +211,8 @@ redirect_from:
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
-
-    <p> <a href="../files/IFAC2023_PrePrint.pdf"  target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+  
+    <p> <a href="./markdown"  target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
     <p>
@@ -229,9 +229,60 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Industrial Electronics</div><img src="../images/gimble.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-    <p> <a href="../files/IFAC2023_PrePrint.pdf"  target="_blank" rel="noopener">Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV</a> <br>
+    <p> <a href="./markdown"  target="_blank" rel="noopener">Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li</p>
 
+    <p>
+        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
+        systems, it ensures robust performance under various perturbations and alleviating communication
+        burden simultaneously. A novel fully actuated multirotors applied this method shows great
+        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
+        without continuous background sensor monitoring.
+    </p>
+  </div>
+</div>
+
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Circuits and Systems II</div><img src="../images/motor.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+
+    <p> <a href="./markdown"  target="_blank" rel="noopener">Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems</a> <br>
+    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
+  
+    <p>
+        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
+        systems, it ensures robust performance under various perturbations and alleviating communication
+        burden simultaneously. A novel fully actuated multirotors applied this method shows great
+        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
+        without continuous background sensor monitoring.
+    </p>
+  </div>
+</div>
+
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Automatic Control</div><img src="../images/motor.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+
+    <p> <a href="./markdown"  target="_blank" rel="noopener">Robust full order sliding mode control for nonlinear systems under time-varying input delay</a> <br>
+    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
+  
+    <p>
+        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
+        systems, it ensures robust performance under various perturbations and alleviating communication
+        burden simultaneously. A novel fully actuated multirotors applied this method shows great
+        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
+        without continuous background sensor monitoring.
+    </p>
+  </div>
+</div>
+
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Automatic Control</div><img src="../images/motor.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+
+    <p> <a href="./markdown"  target="_blank" rel="noopener">Adaptive low-power exact sliding mode observer for arbitrary-order nonlinear systems </a> <br>
+    <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li</p>
+  
     <p>
         <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
         systems, it ensures robust performance under various perturbations and alleviating communication
@@ -246,7 +297,7 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Robotics and Automation Letters</div><img src="../images/bipedal_2.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-    <p> <a href="../files/IFAC2023_PrePrint.pdf"  target="_blank" rel="noopener">Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot</a> <br>
+    <p> <a href="./markdown"  target="_blank" rel="noopener">Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot</a> <br>
     Jianqiao Yu, <strong>Zhangzhen Zhu</strong>, Junyuan Lu, Sicheng Yin, Yu Zhang </p>
   
     <p>
