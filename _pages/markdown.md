@@ -12,7 +12,7 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
   
-    <a name="TCASII">here is the redirected page</a>
+    <a id="TCASII">here is the redirected page</a>
   
     <p> <a href="../files/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
@@ -28,11 +28,10 @@ redirect_from:
 </div>
 
 
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
-  
-    <a name="TCASII">here is the redirected page</a>
-  
+    
     <p> <a href="../files/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
@@ -47,10 +46,29 @@ redirect_from:
 </div>
 
 
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+    
+    <p> <a href="../files/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
+
+    <p>
+        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
+        systems, it ensures robust performance under various perturbations and alleviating communication
+        burden simultaneously. A novel fully actuated multirotors applied this method shows great
+        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
+        without continuous background sensor monitoring.
+    </p>
+  </div>
+</div>
+
+
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
   
-    <a name="TIE">here is the redirected page</a>
+    <a id="TIE">here is the redirected page</a>
   
     <p> <a href="../files/IFAC2023_PrePrint.pdf">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
@@ -66,6 +84,7 @@ redirect_from:
 </div>
 
 <p>  <br />  <br /> </p>
+
 
 
 ## Locations of key files/directories
