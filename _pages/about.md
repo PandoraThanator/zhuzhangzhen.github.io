@@ -124,7 +124,7 @@ redirect_from:
   <em><strong>Under review (second round)</strong></em>, submitted to Transactions on Circuits and Systems II.
 <p>
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown.md" target="_blank" rel="noopener">
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown" target="_blank" rel="noopener">
     Research </a>
 </p>
 
