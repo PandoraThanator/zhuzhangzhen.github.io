@@ -312,11 +312,10 @@ redirect_from:
     Jianqiao Yu, <strong>Zhangzhen Zhu</strong>, Junyuan Lu, Sicheng Yin, Yu Zhang </p>
   
     <p>
-        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
-        systems, it ensures robust performance under various perturbations and alleviating communication
-        burden simultaneously. A novel fully actuated multirotors applied this method shows great
-        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
-        without continuous background sensor monitoring.
+        In this paper, we propose a model predictive control (MPC)-based robot pose controller for our newly designed wheeled bipedal robot (WBR). The robot features
+        leg mechanisms with three degrees of freedom, which effectively decouples its rolling and leaning motions. Instead of using a wheeled linear inverted pendulum model, a floating base 
+        model is introduced to maximize motion flexibility. A hierarchical MPC control structure is employed to track the desired pose while considering possible constraints. Both simulation 
+        and real-world experiments demonstrate that the proposed method can track a pose trajectory with lower error than traditional feedback control methods.
     </p>
   </div>
 </div>
@@ -330,7 +329,7 @@ redirect_from:
 
 # 💻 Internships
 - *2016.10 - 2017.06*, NanJing TaoXun Aviation Technology, NanJing.
-- 
+ 
 <div class="paper-box"><div class="paper-box-image"><div><img src="../images/helicopter.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
