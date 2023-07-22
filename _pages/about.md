@@ -330,4 +330,12 @@ redirect_from:
 
 # 💻 Internships
 - *2016.10 - 2017.06*, NanJing TaoXun Aviation Technology, NanJing.
+- 
+<div class="paper-box"><div class="paper-box-image"><div><img src="../images/helicopter.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+
+    <p> <a href="https://www.bilibili.com/video/BV1Wu4y1U7R7/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"  target="_blank" rel="noopener">Control of coaxial helicopters</a> <br> </p>
+    
+ </div>
+  
 <p>  <br /> </p>
