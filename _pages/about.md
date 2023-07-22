@@ -136,7 +136,7 @@ redirect_from:
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TIE" target="_blank" rel="noopener"> Research </a>
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1ZW4y1d7Dm/?share_source=copy_web&vd_source=d09cf2aaaac7a6187ef097185616ef97"     
     target="_blank" rel="noopener"> Video</a>
 </p>
 
