@@ -293,18 +293,14 @@ redirect_from:
 </div>
 
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Automatic Control</div><img src="../images/motor.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Automatic Control</div><img src="../images/disconti.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-    <p> <a href="./markdown"  target="_blank" rel="noopener">Adaptive low-power exact sliding mode observer for arbitrary-order nonlinear systems </a> <br>
+    <p> <a href="./markdown"  target="_blank" rel="noopener">Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li</p>
   
     <p>
-        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
-        systems, it ensures robust performance under various perturbations and alleviating communication
-        burden simultaneously. A novel fully actuated multirotors applied this method shows great
-        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
-        without continuous background sensor monitoring.
+        <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the output regulation problems. It ensures finite time convergence of the system state under the unkonwn disturbance, which only needs the mild assumption that the bound of the disturbance's derivative exists. Meanwhile, the disturbance is exactly estimated and the total control input is continuous, which is critical to industrial applications with inevitable measurement noises.
     </p>
   </div>
 </div>
