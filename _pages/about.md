@@ -273,18 +273,21 @@ redirect_from:
 </div>
 
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Automatic Control</div><img src="../images/motor.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Automatic Control</div><img src="../images/delay.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
     <p> <a href="./markdown"  target="_blank" rel="noopener">Robust full order sliding mode control for nonlinear systems under time-varying input delay</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
   
     <p>
-        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
-        systems, it ensures robust performance under various perturbations and alleviating communication
-        burden simultaneously. A novel fully actuated multirotors applied this method shows great
-        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
-        without continuous background sensor monitoring.
+        This paper proposes a systematic robust predictive
+        control to solve the stabilization problem for invertible
+        nonlinear system with model uncertainties, exogenous disturbances
+        and time-varying input delays. It’s still an open problem
+        to synthesize the sliding mode control (SMC) with infinitedimensional
+        backstepping transformation since the control input
+        under SMC is non-differentiable. Hence, a chattering-free full order terminal sliding mode control is
+        presented to enhance robustness and achieve finite-time stability simultaneously.
     </p>
   </div>
 </div>
@@ -314,7 +317,7 @@ redirect_from:
     Jianqiao Yu, <strong>Zhangzhen Zhu</strong>, Junyuan Lu, Sicheng Yin, Yu Zhang </p>
   
     <p>
-        In this paper, we propose a model predictive control (MPC)-based robot pose controller for our newly designed wheeled bipedal robot (WBR). The robot features
+        Model predictive control based robot pose controller is proposed for our newly designed wheeled bipedal robot. The robot features
         leg mechanisms with three degrees of freedom, which effectively decouples its rolling and leaning motions. Instead of using a wheeled linear inverted pendulum model, a floating base 
         model is introduced to maximize motion flexibility. A hierarchical MPC control structure is employed to track the desired pose while considering possible constraints. Both simulation 
         and real-world experiments demonstrate that the proposed method can track a pose trajectory with lower error than traditional feedback control methods.
