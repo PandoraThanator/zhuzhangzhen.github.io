@@ -293,7 +293,7 @@ redirect_from:
 </div>
 
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Automatic Control</div><img src="../images/disconti.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">TAC</div><img src="../images/disconti.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
     <p> <a href="./markdown"  target="_blank" rel="noopener">Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems</a> <br>
