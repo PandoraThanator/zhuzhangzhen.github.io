@@ -137,7 +137,9 @@ redirect_from:
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TIE" target="_blank" rel="noopener"> Research </a>
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1ZW4y1d7Dm/?share_source=copy_web&vd_source=d09cf2aaaac7a6187ef097185616ef97"     
-    target="_blank" rel="noopener"> Video</a>
+    target="_blank" rel="noopener"> Video1</a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1Vc411w7wW/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
+    target="_blank" rel="noopener"> Video2</a>
 </p>
 
 
@@ -329,8 +331,17 @@ redirect_from:
 
 # 💻 Internships
 - *2016.10 - 2017.06*, NanJing TaoXun Aviation Technology, NanJing.
+
+ <table>
+   <tbody>
+     <tr> 
+       <td><img src="../images/test.png" border="0"></td>
+       <td><img src="../images/helicopter.png" border="0"></td>
+     </tr>
+   </tbody>
+ </table>
  
-<div class="paper-box"><div class="paper-box-image"><div><img src="../images/helicopter.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="../images/test_model.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
     <p> <a href="https://www.bilibili.com/video/BV1Wu4y1U7R7/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"  target="_blank" rel="noopener">Control of coaxial helicopters</a> <br> </p>
