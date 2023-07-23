@@ -187,7 +187,7 @@ redirect_from:
   <em><strong>Under review (second round)</strong></em>, submitted to Robotics and Automation Letters.
 <p>
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV18P411r7Jc/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
     target="_blank" rel="noopener"> Video</a>
 </p>
 
@@ -310,7 +310,7 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Robotics and Automation Letters</div><img src="../images/bipedal_2.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-    <p> <a href="./markdown"  target="_blank" rel="noopener">Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot</a> <br>
+    <p> <a href="https://www.bilibili.com/video/BV18P411r7Jc/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"  target="_blank" rel="noopener">Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot</a> <br>
     Jianqiao Yu, <strong>Zhangzhen Zhu</strong>, Junyuan Lu, Sicheng Yin, Yu Zhang </p>
   
     <p>
