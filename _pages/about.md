@@ -248,7 +248,7 @@ redirect_from:
     <p>
         Adaptive Finite-time Multivariable Super-twisting Algorithm (<strong>AFMSTA</strong>) is capable of stabilizing the invertible MIMO nonlinear system in 
         finite-time despite the <strong>co-existence of unknown</strong> model uncertainties and exogenous disturbances. This algorithm guarantees high precision 
-        steady state and estimates the bound of the perturbation <strong>online</strong>. An omni-directional attitude control on the novel fully actuated UAV is          accomplished.
+        steady state and estimates the bound of the perturbation <strong>online</strong>. An omni-directional control on the novel fully actuated UAV is          accomplished.
     </p>
   </div>
 </div>
@@ -315,9 +315,8 @@ redirect_from:
     <p>
         <strong>Model predictive control</strong> based robot pose controller is proposed for our newly designed wheeled bipedal robot. The robot features
         leg mechanisms with three degrees of freedom, which effectively decouples its rolling and leaning motions. Instead of using a wheeled linear inverted 
-        pendulum model, a <strong>floating base model</strong> is introduced to maximize motion flexibility. This hierarchical MPC control structure is employed 
-        both in simulation and experiments, demonstrating that the proposed method can track pose trajectories with lower error than the traditional 
-        feedback controllers.
+        pendulum model, a <strong>floating base model</strong> is introduced to maximize motion flexibility. This hierarchical MPC control can track pose 
+        trajectories with lower error than the traditional feedback controllers.
     </p>
   </div>
 </div>
