@@ -111,6 +111,9 @@
 </div>
 
 
+
+
+
 💻 Transactions on Automatic Control
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">TAC</div><img src="../images/disconti.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
@@ -123,15 +126,6 @@
         under <strong>measurement noises</strong>. It ensures finite time convergence of the system state under the <strong>unkonwn disturbance</strong>, which 
         only needs the mild assumption that the disturbance's derivative exists. Meanwhile, the disturbance is <strong>exactly estimated</strong> compared with 
         the conventional <strong>High Gain Observers</strong>.
-    </p>
-  </div>
-</div>
-
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">TAC</div><img src="../images/tcasii.png" alt="sym" width="100%"></div></div>
-<div class="paper-box-text">
-
-    <p>
-        For example, imposing an input disturbance on the nonlinear system with integral of chains. As depicted in the figures, all the states with different              initial values converge into the equilibrium in fixed-time and the disturbance is estimated online through the adaptive gain tuning method.
     </p>
   </div>
 </div>
