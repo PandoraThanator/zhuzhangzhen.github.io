@@ -55,11 +55,11 @@ redirect_from:
 💻 Some Mechatronic Systems Works
 <table><tr>
 <td><img src="../images/6D_model.png" border=0></td>
-<td><img src="../images/6D_real.png" border=0></td>
+<td><img src="../images/fam1.png" border=0></td>
 </tr></table>
 
 <table><tr>
-<td><img src="../images/fam1.png" border=0></td>
+<td><img src="../images/6D_real.png" border=0></td> 
 <td><img src="../images/6D_force.png" border=0></td>
 </tr></table>
 
