@@ -128,7 +128,7 @@
 </div>
 <p>
 For example, imposing an input disturbance on the nonlinear system with integral of chains. As depicted in the figures, all the states with different initial values converge into the equilibrium in fixed-time and the disturbance is estimated online through the adaptive gain tuning method.
-<math> <mi> d </mi> <mrow> <mo> ( </mo> <mi> t </mi> <mo> ) </mo> </mrow> <mo> = </mo> <mi> sin </mi> <mrow> <mo> ( </mo> <mn> 5 </mn> <mi> t </mi> <mo> ) </mo> </mrow> <mo> + </mo> <mi> cos </mi> <mrow> <mo> ( </mo> <mn> 4 </mn> <mi> t </mi> <mo> ) </mo> </mrow> </math>
+
 </p>
 
 <p>  <br />  <br /> </p>
