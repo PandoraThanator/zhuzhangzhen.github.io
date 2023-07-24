@@ -222,7 +222,7 @@ redirect_from:
 
 # 💻 Projects
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam1.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
   
     <p> <a href="./markdown"  target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
@@ -290,21 +290,6 @@ redirect_from:
 </div>
 
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">TAC</div><img src="../images/disconti.png" alt="sym" width="100%"></div></div>
-<div class="paper-box-text">
-
-    <p> <a href="./markdown"  target="_blank" rel="noopener">Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems</a> <br>
-    <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li</p>
-  
-    <p>
-        <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the <strong>output regulation</strong> problems 
-        under <strong>measurement noises</strong>. It ensures finite time convergence of the system state under the <strong>unkonwn disturbance</strong>, which 
-        only needs the mild assumption that the disturbance's derivative exists. Meanwhile, the disturbance is <strong>exactly estimated</strong> compared with 
-        the conventional <strong>High Gain Observers</strong>.
-    </p>
-  </div>
-</div>
-
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Robotics and Automation Letters</div><img src="../images/bipedal_2.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
@@ -320,6 +305,29 @@ redirect_from:
     </p>
   </div>
 </div>
+
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">TAC</div><img src="../images/disconti.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+
+    <p> <a href="./markdown"  target="_blank" rel="noopener">Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems</a> <br>
+    <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li</p>
+  
+    <p>
+        <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the <strong>output regulation</strong> problems 
+        under <strong>measurement noises</strong>. It ensures finite time convergence of the system state under the <strong>unkonwn disturbance</strong>, which 
+        only needs the mild assumption that the disturbance's derivative exists. Meanwhile, the disturbance is <strong>exactly estimated</strong> compared with 
+        the conventional <strong>High Gain Observers</strong>.
+    </p>
+  </div>
+</div>
+
+<table><tr>
+<td><img src="../images/jaime1.png" border=0></td>
+<td><img src="../images/jaime2.png" border=0></td>
+</tr></table>
+
+Discuss and analyze the above paper in-depth with academic experts <a href="https://ieeexplore.ieee.org/author/37291091800" target="_blank" rel="noopener">Jaime A. Moreno</a> and <a href="https://ieeexplore.ieee.org/author/37270305400" target="_blank" rel="noopener">Leonid Fridman</a> in Sliding Mode Control, at Yokohama, IFAC 2023.
 
 <p>  <br />  <br /> </p>
 
