@@ -1,11 +1,4 @@
----
-permalink: /markdown/
-title: ""
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
+
 
 
 💻 IFAC 2023 World Congress
