@@ -84,10 +84,10 @@ redirect_from:
 
 
 💻 Transactions on Industrial Electronics
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Industrial Electronics</div><img src="../images/gimble.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
     
-    <p> <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    <p> Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV <br>
     <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li </p>
 
     <p>
@@ -101,10 +101,10 @@ redirect_from:
 
 
 💻 Transactions on Circuits and Systems II
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">TCAS II</div><img src="../images/motor.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
     
-    <p> <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    <p> Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
     <p>
