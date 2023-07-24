@@ -1,4 +1,4 @@
----
+![image](https://github.com/PandoraThanator/zhuzhangzhen.github.io/assets/46395295/b3901de6-05de-4390-8d10-c362a5861fdc)---
 permalink: /markdown/
 title: ""
 author_profile: true
@@ -116,6 +116,33 @@ redirect_from:
     </p>
   </div>
 </div>
+
+For example, imposing an input disturbance 
+<math xmlns='http://www.w3.org/1998/Math/MathML'>
+  <mi> d </mi>
+  <mrow>
+    <mo> ( </mo>
+      <mi> t </mi>
+    <mo> ) </mo>
+  </mrow>
+  <mo> = </mo>
+  <mi> sin </mi>
+  <mrow>
+    <mo> ( </mo>
+      <mn> 5 </mn>
+      <mi> t </mi>
+    <mo> ) </mo>
+  </mrow>
+  <mo> + </mo>
+  <mi> cos </mi>
+  <mrow>
+    <mo> ( </mo>
+      <mn> 4 </mn>
+      <mi> t </mi>
+    <mo> ) </mo>
+  </mrow>
+</math>
+on the nonlinear system , all the states with different initial values converge into the equilibrium in fixed-time and the disturbance is estimated online through the adaptive gain tuning method.
 
 
 💻 Transactions on Automatic Control
