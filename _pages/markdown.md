@@ -117,8 +117,6 @@ redirect_from:
   </div>
 </div>
 
-For example, imposing an input disturbance d(t) = sin(5t) + cos(4t) on the nonlinear system with integral of chains. As depicted in the figures, all the states with different initial values converge into the equilibrium in fixed-time and the disturbance is estimated online through the adaptive gain tuning method.
-
 
 💻 Transactions on Automatic Control
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">TAC</div><img src="../images/disconti.png" alt="sym" width="100%"></div></div>
