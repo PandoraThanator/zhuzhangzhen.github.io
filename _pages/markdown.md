@@ -126,16 +126,18 @@ redirect_from:
     <strong>Zhangzhen Zhu</strong>, Jaime A. Moreno, Yu Zhang. </p>
 
     <p>
-      This paper proposes a <strong>robust predictive
-      control</strong> to solve the stabilization problem for nonlinear system with model uncertainties, exogenous disturbances
-      and <strong>time-varying input delays</strong>. It’s still an open problem
-      to synthesize the sliding mode control with <strong>infinite-dimensional
-      backstepping transformation</strong> since the control input
-      under SMC is non-differentiable. Hence, our newly designed method is
-      presented to solve this open problem.
+        <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the <strong>output regulation</strong> problems 
+        under <strong>measurement noises</strong>. It ensures finite time convergence of the system state under the <strong>unkonwn disturbance</strong>, which 
+        only needs the mild assumption that the disturbance's derivative exists. Meanwhile, the disturbance is <strong>exactly estimated</strong> compared with 
+        the conventional <strong>High Gain Observers</strong>.
     </p>
   </div>
 </div>
+
+<table><tr>
+<td><img src="../images/jaime1.png" border=0></td>
+<td><img src="../images/jaime2.png" border=0></td>
+</tr></table>
 
 <p>  <br />  <br /> </p>
 
