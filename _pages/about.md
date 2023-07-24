@@ -110,6 +110,20 @@ redirect_from:
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
     target="_blank" rel="noopener"> Video</a>
 </p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icgnc.pdf" target="_blank" rel="noopener">PDF </a>
+</p>
+
+  <span class="author-highlighted">
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Yongliang Lin</span>, <span>
+      Yu Zhang</span>.
+  Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems.
+  <em><strong>Under review (second round)</strong></em>, submitted to Transactions on Circuits and Systems II.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TCASII" target="_blank" rel="noopener">Research </a>
+</p>
 
   <span class="author-highlighted">
       Yunhe Wang</span>, <span>
@@ -130,21 +144,6 @@ redirect_from:
   <em><strong>Accepted to </strong></em>International Conference on Guidance, Navigation and Control 2020.
 <p>
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icgnc.pdf" target="_blank" rel="noopener">PDF </a>
-</p>
-
-  <span class="author-highlighted">
-      <strong>Zhangzhen Zhu </strong></span>, <span>
-      Yongliang Lin</span>, <span>
-      Yu Zhang</span>.
-  Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems.
-  <em><strong>Under review (second round)</strong></em>, submitted to Transactions on Circuits and Systems II.
-<p>
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TCASII" target="_blank" rel="noopener">Research </a>
-</p>
-
-
   <span class="author-highlighted">
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Yu Zhang</span>, <span>
@@ -202,8 +201,10 @@ redirect_from:
 
 <ul class="ul-interests mb-0">
   
-    <li>Yu Zhang, <strong>Zhangzhen Zhu (director)</strong>, Ping Li.  Multi-degree-of-freedom rotor system, rotor system for preventing entanglement, and unmanned aerial vehicle. <em> 
-    <strong>CN108945395</strong></em>.</li>
+    <li>Yu Zhang, <strong>Zhangzhen Zhu (director)</strong>, Ping Li.
+    <p> <a href="../files/CN108945395A.pdf"  target="_blank" rel="noopener">Multi-degree-of-freedom rotor system, rotor system for preventing entanglement, and 
+    unmanned aerial vehicle.</a> <br> </p>
+    <em><strong>CN108945395</strong></em>.</li>
           
     <li>Yicheng Zeng, <strong>Zhangzhen Zhu (director)</strong>, Yu Zhang.  Vector propulsion device and aircraft. <em> 
     <strong>CN115806071A</strong></em>.</li> 
