@@ -230,10 +230,10 @@ redirect_from:
 
     <p>
         <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
-        systems, it ensures robust performance under various perturbations and alleviating communication
-        burden simultaneously. A novel fully actuated multirotors applied this method shows great
+        systems, it ensures robust performance under various perturbations and <strong>alleviating communication
+        burden</strong> simultaneously. A novel fully actuated multirotors applied this method shows great
         robustness to perturbations and is able of tracking six dimensional decoupled trajectories
-        without continuous background sensor monitoring.
+        <strong>without continuous background sensor monitoring</strong>.
     </p>
   </div>
 </div>
@@ -261,11 +261,11 @@ redirect_from:
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
   
     <p>
-        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
-        systems, it ensures robust performance under various perturbations and alleviating communication
-        burden simultaneously. A novel fully actuated multirotors applied this method shows great
-        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
-        without continuous background sensor monitoring.
+         Adaptive quasi-fixed-time integral terminal sliding mode control (<strong>AFTSM</strong>) can stabilize the invertible nonlinear systems with 
+         <strong>unknown varying</strong> perturbations in <strong>quasi-fixed-time</strong>, while estimating the lumped perturbations within same time, even 
+         with large initial state errors. Besides, a novel <strong>nonsingular adaptive layer function</strong> is introduced, leading to a <strong>completely 
+         chattering-free</strong> control with no gain overestimation. The method's superiority is demonstrated through a permanent magnet 
+         synchronous motor control experiment.
     </p>
   </div>
 </div>
@@ -278,14 +278,14 @@ redirect_from:
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
   
     <p>
-        This paper proposes a systematic robust predictive
-        control to solve the stabilization problem for invertible
+        This paper proposes a systematic <strong>robust predictive
+        control</strong> to solve the stabilization problem for invertible
         nonlinear system with model uncertainties, exogenous disturbances
-        and time-varying input delays. It’s still an open problem
-        to synthesize the sliding mode control (SMC) with infinitedimensional
+        and <strong>time-varying input delays</strong>. It’s still an open problem
+        to synthesize the sliding mode control with infinite-dimensional
         backstepping transformation since the control input
         under SMC is non-differentiable. Hence, a chattering-free full order terminal sliding mode control is
-        presented to enhance robustness and achieve finite-time stability simultaneously.
+        presented to achieve finite-time stability simultaneously.
     </p>
   </div>
 </div>
@@ -298,7 +298,10 @@ redirect_from:
     <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li</p>
   
     <p>
-        <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the output regulation problems. It ensures finite time convergence of the system state under the unkonwn disturbance, which only needs the mild assumption that the bound of the disturbance's derivative exists. Meanwhile, the disturbance is exactly estimated and the total control input is continuous, which is critical to industrial applications with inevitable measurement noises.
+        <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the <strong>output regulation</strong> problems. 
+        It ensures finite time convergence of the system state under the <strong>unkonwn disturbance</strong>, which only needs the mild assumption that the 
+        disturbance's derivative exists. Meanwhile, the disturbance is <strong>exactly estimated</strong> and the total control input is continuous, which is 
+        critical to industrial applications with measurement noises.
     </p>
   </div>
 </div>
@@ -311,10 +314,11 @@ redirect_from:
     Jianqiao Yu, <strong>Zhangzhen Zhu</strong>, Junyuan Lu, Sicheng Yin, Yu Zhang </p>
   
     <p>
-        Model predictive control based robot pose controller is proposed for our newly designed wheeled bipedal robot. The robot features
-        leg mechanisms with three degrees of freedom, which effectively decouples its rolling and leaning motions. Instead of using a wheeled linear inverted pendulum model, a floating base 
-        model is introduced to maximize motion flexibility. A hierarchical MPC control structure is employed to track the desired pose while considering possible constraints. Both simulation 
-        and real-world experiments demonstrate that the proposed method can track a pose trajectory with lower error than traditional feedback control methods.
+        <strong>Model predictive control</strong> based robot pose controller is proposed for our newly designed wheeled bipedal robot. The robot features
+        leg mechanisms with three degrees of freedom, which effectively decouples its rolling and leaning motions. Instead of using a wheeled linear inverted 
+        pendulum model, a <strong>floating base model</strong> is introduced to maximize motion flexibility. A hierarchical MPC control structure is employed to 
+        track the desired pose. Simulation and experiments demonstrate that the proposed method can track a pose trajectory with lower error than traditional 
+        feedback controllers.
     </p>
   </div>
 </div>
