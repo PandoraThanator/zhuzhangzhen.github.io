@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
- I am Zhangzhen Zhu (朱张赈), a Ph.D. Candidate at <strong>ZheJiang University</strong>, with the <strong>State Key Laboratory</strong> of Industrial Control Technology. My research interests lie in the areas of <strong>Advanced Motion Control</strong>, and their applications to industrial <strong>complex nonlinear</strong> systems, including unmanned aerial vehicles (experiments of over <strong>7+</strong> years) and brushless DC motors. 
+ I am Zhangzhen Zhu, a Ph.D. Candidate at <strong>ZheJiang University</strong>, with the <strong>State Key Laboratory</strong> of Industrial Control Technology. My research interests lie in the areas of <strong>Advanced Motion Control</strong>, and their applications to industrial <strong>complex nonlinear</strong> systems, including UAVs (experiments of over <strong>7+ years</strong>) and brushless DC motors. 
 
  In addition to my academic pursuits, I also possess extensive experience in the development of complex Mechatronic systems from scratch (see my Projects for details), including mechanical system realization, circuit system customization and efficient code deployment.
  
- I am dedicated to producing high-quality research and making meaningful contributions to both academics and industrial societies, and making progress together with an excellent team.
+ I am dedicated to producing high-quality research and making meaningful contributions to both academics and industrial societies.
 
 <p>  <br />  <br /> </p>
 
