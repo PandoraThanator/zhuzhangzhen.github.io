@@ -19,10 +19,10 @@ redirect_from:
 
     <p>
         <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
-        systems, it ensures robust performance under various perturbations and alleviating communication
-        burden simultaneously. A novel fully actuated multirotors applied this method shows great
+        systems, it ensures robust performance under various perturbations and <strong>alleviating communication
+        burden</strong> simultaneously. A novel fully actuated multirotors applied this method shows great
         robustness to perturbations and is able of tracking six dimensional decoupled trajectories
-        without continuous background sensor monitoring.
+        <strong>without continuous background sensor monitoring</strong>.
     </p>
   </div>
 </div>
@@ -126,11 +126,13 @@ redirect_from:
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
     <p>
-        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
-        systems, it ensures robust performance under various perturbations and alleviating communication
-        burden simultaneously. A novel fully actuated multirotors applied this method shows great
-        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
-        without continuous background sensor monitoring.
+      This paper proposes a <strong>robust predictive
+      control</strong> to solve the stabilization problem for nonlinear system with model uncertainties, exogenous disturbances
+      and <strong>time-varying input delays</strong>. It’s still an open problem
+      to synthesize the sliding mode control with <strong>infinite-dimensional
+      backstepping transformation</strong> since the control input
+      under SMC is non-differentiable. Hence, our newly designed method is
+      presented to solve this open problem.
     </p>
   </div>
 </div>
