@@ -117,9 +117,9 @@ redirect_from:
     </p>
   </div>
 </div>
-
-
-
+<p>
+d(t) = sin(5t) + cos(4t)
+</p>p
 
 
 💻 Transactions on Automatic Control
