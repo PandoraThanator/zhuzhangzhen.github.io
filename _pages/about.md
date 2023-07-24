@@ -103,15 +103,12 @@ redirect_from:
       Yongliang Lin</span>, <span>
       Yu Zhang</span>.
   Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs.
-  <em><strong>Accepted to </strong></em>22nd IFAC 2023 World Congress.
+  <strong>Accepted to </strong>22nd IFAC 2023 World Congress.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">PDF </a>
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1wN411e758/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
     target="_blank" rel="noopener"> Video</a>
-</p>
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icgnc.pdf" target="_blank" rel="noopener">PDF </a>
 </p>
 
   <span class="author-highlighted">
@@ -119,7 +116,7 @@ redirect_from:
       Yongliang Lin</span>, <span>
       Yu Zhang</span>.
   Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems.
-  <em><strong>Under review (second round)</strong></em>, submitted to Transactions on Circuits and Systems II.
+  <strong>Under review (second round)</strong>, submitted to Transactions on Circuits and Systems II.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TCASII" target="_blank" rel="noopener">Research </a>
@@ -130,7 +127,7 @@ redirect_from:
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Yu Zhang</span>.
   Modeling and Control of a Novel Over-actuated Tri-rotor UAV.
-  <em><strong>Accepted to </strong></em>International Conference on Unmanned Aircraft Systems 2020.
+  <strong>Accepted to </strong>International Conference on Unmanned Aircraft Systems 2020.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icuas.pdf" target="_blank" rel="noopener">PDF </a>
@@ -141,15 +138,17 @@ redirect_from:
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Yu Zhang</span>.
   Backstepping Method and Control Allocation for a Fully-Actuated Tri-Rotor.
-  <em><strong>Accepted to </strong></em>International Conference on Guidance, Navigation and Control 2020.
+  <strong>Accepted to </strong>International Conference on Guidance, Navigation and Control 2020.
 <p>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icgnc.pdf" target="_blank" rel="noopener">PDF </a>
+</p>
   
   <span class="author-highlighted">
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Yu Zhang</span>, <span>
       Ping Li</span>.
   Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV. 
-  <em><strong>Under review</strong></em>, submitted to Transactions on Industrial Electronics.
+  <strong>Under review</strong>, submitted to Transactions on Industrial Electronics.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TIE" target="_blank" rel="noopener"> Research </a>
@@ -165,7 +164,7 @@ redirect_from:
       Yu Zhang</span>, <span>
       Ping Li</span>.
   Robust full order sliding mode control for nonlinear systems under time-varying input delay.
-  <em><strong>Under review</strong></em>, submitted to Transactions on Automatic Control.
+  <strong>Under review</strong>, submitted to Transactions on Automatic Control.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
@@ -179,7 +178,7 @@ redirect_from:
       Sicheng Yin</span>, <span>
       Yu Zhang</span>.
   Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot.
-  <em><strong>Under review (second round)</strong></em>, submitted to Robotics and Automation Letters.
+  <strong>Under review (second round)</strong>, submitted to Robotics and Automation Letters.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV18P411r7Jc/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
@@ -201,20 +200,28 @@ redirect_from:
 
 <ul class="ul-interests mb-0">
   
+    <li>Yicheng Zeng, <strong>Zhangzhen Zhu (director)</strong>, Yu Zhang.
+    <p> 
+      <a href="../files/CN115806071A.pdf"  target="_blank" rel="noopener">Vector propulsion device and aircraft.</a> <br>
+      <em><strong>CN115806071A</strong></em>.
+    </p>
+    </li>
+  
     <li>Yu Zhang, <strong>Zhangzhen Zhu (director)</strong>, Ping Li.
-    <p> <a href="../files/CN108945395A.pdf"  target="_blank" rel="noopener">Multi-degree-of-freedom rotor system, rotor system for preventing entanglement, and 
-    unmanned aerial vehicle.</a> <br> </p>
-    <em><strong>CN108945395</strong></em>.</li>
-          
-    <li>Yicheng Zeng, <strong>Zhangzhen Zhu (director)</strong>, Yu Zhang.  Vector propulsion device and aircraft. <em> 
-    <strong>CN115806071A</strong></em>.</li> 
+    <p> 
+      <a href="../files/CN108945395A.pdf"  target="_blank" rel="noopener">Multi-degree-of-freedom rotor system, rotor system for preventing entanglement, and 
+      unmanned aerial vehicle.</a> <br> 
+      <em><strong>CN108945395</strong></em>. 
+    </p>
+    </li>
 </ul>
 
 <p>  <br />  <br /> </p>
 
 
 
-  
+
+
 # 💻 Projects
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
