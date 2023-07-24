@@ -117,9 +117,15 @@ redirect_from:
     </p>
   </div>
 </div>
+
+<table><tr>
+<td><img src="../images/state.png" border=0></td>
+<td><img src="../images/tcasii.png" border=0></td>
+</tr></table>
+
 <p>
 d(t) = sin(5t) + cos(4t)
-</p>p
+</p>
 
 
 💻 Transactions on Automatic Control
