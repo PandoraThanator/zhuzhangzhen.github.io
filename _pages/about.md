@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
- I am Zhangzhen Zhu (朱张赈), a Ph.D. Candidate at ZheJiang University, with the State Key Laboratory of Industrial Control Technology. My research interests lie in the areas of robust and predictive control, system modeling and identification, and their applications to industrial complex nonlinear systems, including unmanned aerial vehicles (with experiments of over 7+ years) and brushless DC motors. 
+ I am Zhangzhen Zhu (朱张赈), a Ph.D. Candidate at <strong>ZheJiang University</strong>, with the <strong>State Key Laboratory of Industrial Control Technology</strong>. My research interests lie in the areas of <strong>Advanced Control Theorem</strong, and their applications to industrial complex nonlinear systems, including unmanned aerial vehicles (experiments of over <strong>7+</strong> years) and brushless DC motors. 
 
- In addition to my academic pursuits, I also possess extensive experience in the development of complex Mechatronic systems from scratch (see my Projects for details), including mechanical system realization, circuit system customization and efficient code deployment. I believe that the familiarity with the hardware systems will effectively enhance control engineers' comprehension of the theoretical research, and to a certain extent, eliminate vacuous mathematical academic research in the control society.
+ In addition to my academic pursuits, I also possess extensive experience in the development of complex Mechatronic systems from scratch (see my Projects for details), including mechanical system realization, circuit system customization and efficient code deployment.
  
  I am dedicated to producing high-quality research and making meaningful contributions to both academics and industrial societies, and making progress together with an excellent team.
 
@@ -49,6 +49,7 @@ redirect_from:
           <div class="card-text"><p>Research interests include:</p>
 <ul>
 <li>Nonlinear Adaptive High Order Sliding Mode Control / Observer</li>
+<li>System Modeling and Identification</li>
 <li>Time-Varying Input Delay Systems / Nonlinear Model Predictive Control</li>
 <li>Discrete-Time Robust Event-Triggered Control</li>
 </ul>
