@@ -65,7 +65,7 @@ redirect_from:
 
 <table><tr>
 <td><img src="../images/test.png" border=0></td>
-<td><img src="../images/fmu3.png" border=0></td>
+<td><img src="../images/pmu.png" border=0></td>
 </tr></table>
 
 <table><tr>
@@ -88,10 +88,10 @@ redirect_from:
 <div class="paper-box-text">
     
     <p> <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
-    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
+    <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li </p>
 
     <p>
-        <strong>AFMSTA</strong> Adaptive Finite-time Multivariable Super-twisting Algorithm is capable of stabilizing the invertible MIMO nonlinear system in 
+        Adaptive Finite-time Multivariable Super-twisting Algorithm (<strong>AFMSTA</strong>) is capable of stabilizing the invertible MIMO nonlinear system in 
         finite-time despite the <strong>co-existence of unknown</strong> model uncertainties and exogenous disturbances. This algorithm guarantees high precision 
         steady state and estimates the bound of the perturbation <strong>online</strong>. An omni-directional attitude control on the novel fully actuated UAV is          accomplished.
     </p>
