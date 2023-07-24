@@ -246,11 +246,9 @@ redirect_from:
     <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li</p>
 
     <p>
-        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
-        systems, it ensures robust performance under various perturbations and alleviating communication
-        burden simultaneously. A novel fully actuated multirotors applied this method shows great
-        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
-        without continuous background sensor monitoring.
+        Adaptive Finite-time Multivariable Super-twisting Algorithm (<strong>AFMSTA</strong>) is capable of stabilizing the invertible MIMO nonlinear system in 
+        finite-time despite the <strong>co-existence of unknown</strong> model uncertainties and exogenous disturbances. This algorithm guarantees high precision 
+        steady state and estimates the bound of the perturbation <strong>online</strong>. An omni-directional attitude control on the novel fully actuated UAV is          accomplished.
     </p>
   </div>
 </div>
