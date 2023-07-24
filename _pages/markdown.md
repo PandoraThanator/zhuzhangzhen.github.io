@@ -52,6 +52,37 @@ redirect_from:
 
 
 
+💻 Some Mechatronic Systems Works
+<table><tr>
+<td><img src="../images/6D_model.png" border=0></td>
+<td><img src="../images/6D_real.png" border=0></td>
+</tr></table>
+
+<table><tr>
+<td><img src="../images/fam1.png" border=0></td>
+<td><img src="../images/6D_force.png" border=0></td>
+</tr></table>
+
+<table><tr>
+<td><img src="../images/test.png" border=0></td>
+<td><img src="../images/fmu3.png" border=0></td>
+</tr></table>
+
+<table><tr>
+<td><img src="../images/test_model.png" border=0></td>
+<td><img src="../images/fmu1.png" border=0></td>
+</tr></table>
+
+<table><tr>
+<td><img src="../images/fmu2.png" border=0></td>
+<td><img src="../images/bipedal.png" border=0></td>
+</tr></table>
+
+<p>  <br /> </p>
+
+
+
+
 💻 Transactions on Industrial Electronics
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
