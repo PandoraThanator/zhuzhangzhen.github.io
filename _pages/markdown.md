@@ -52,7 +52,7 @@ redirect_from:
 
 
 
-💻 Some Mechatronic Systems Works
+💻 Some Mechatronic System Works
 <table><tr>
 <td><img src="../images/6D_model.png" border=0></td>
 <td><img src="../images/fam1.png" border=0></td>
@@ -91,11 +91,9 @@ redirect_from:
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
     <p>
-        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
-        systems, it ensures robust performance under various perturbations and alleviating communication
-        burden simultaneously. A novel fully actuated multirotors applied this method shows great
-        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
-        without continuous background sensor monitoring.
+        <strong>AFMSTA</strong> Adaptive Finite-time Multivariable Super-twisting Algorithm is capable of stabilizing the invertible MIMO nonlinear system in 
+        finite-time despite the <strong>co-existence of unknown</strong> model uncertainties and exogenous disturbances. This algorithm guarantees high precision 
+        steady state and estimates the bound of the perturbation <strong>online</strong>. An omni-directional attitude control on the novel fully actuated UAV is          accomplished.
     </p>
   </div>
 </div>
