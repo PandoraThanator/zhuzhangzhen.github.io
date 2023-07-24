@@ -10,7 +10,7 @@ redirect_from:
 
  I am Zhangzhen Zhu, a Ph.D. Candidate at <strong>ZheJiang University</strong>, with the <strong>State Key Laboratory</strong> of Industrial Control Technology. My research interests lie in the areas of <strong>Advanced Robust Motion Control</strong>, and their applications to industrial <strong>complex nonlinear</strong> systems, including but not limited to UAVs (experiments of over <strong>7+ years</strong>) and brushless DC motors. 
  
- As an experienced Mechatronic systems developer, I have a strong track record in creating complex systems from scratch(see my Projects for details), including mechanical system realization, circuit system customization, and efficient code deployment. Additionally, I am a <strong>master in Matlab/Simulink</strong> and rapid implementation of new control algorithms from academia into industrial systems is within my capabilities.
+ As an experienced Mechatronic systems developer, I have a strong track record in creating complex systems from scratch(see my Projects), including mechanical, circuit system customization, and efficient code deployment. Additionally, I am a <strong>master in Matlab/Simulink</strong> and rapid implementation of new control algorithms from academia into industrial systems is within my capabilities.
 
 <p>  <br />  <br /> </p>
 
