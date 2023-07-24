@@ -97,8 +97,6 @@ redirect_from:
 # 📝 Publications 
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-
-  <!-- <span class="article-metadata li-cite-author"> -->
     
   <span class="author-highlighted">
       <strong>Zhangzhen Zhu (Oral)</strong></span>, <span>
@@ -113,6 +111,27 @@ redirect_from:
     target="_blank" rel="noopener"> Video</a>
 </p>
 
+  <span class="author-highlighted">
+      Yunhe Wang</span>, <span>
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Yu Zhang</span>.
+  Modeling and Control of a Novel Over-actuated Tri-rotor UAV.
+  <em><strong>Accepted to </strong></em>International Conference on Unmanned Aircraft Systems 2020.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icuas.pdf" target="_blank" rel="noopener">PDF </a>
+</p>
+
+  <span class="author-highlighted">
+      Yunhe Wang</span>, <span>
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Yu Zhang</span>.
+  Backstepping Method and Control Allocation for a Fully-Actuated Tri-Rotor.
+  <em><strong>Accepted to </strong></em>International Conference on Guidance, Navigation and Control 2020.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icgnc.pdf" target="_blank" rel="noopener">PDF </a>
+</p>
 
   <span class="author-highlighted">
       <strong>Zhangzhen Zhu </strong></span>, <span>
@@ -155,28 +174,6 @@ redirect_from:
 </p>
 
   <span class="author-highlighted">
-      Yunhe Wang</span>, <span>
-      <strong>Zhangzhen Zhu </strong></span>, <span>
-      Yu Zhang</span>.
-  Modeling and Control of a Novel Over-actuated Tri-rotor UAV.
-  <em><strong>Accepted to </strong></em>International Conference on Unmanned Aircraft Systems 2020.
-<p>
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icuas.pdf" target="_blank" rel="noopener">PDF </a>
-</p>
-
-  <span class="author-highlighted">
-      Yunhe Wang</span>, <span>
-      <strong>Zhangzhen Zhu </strong></span>, <span>
-      Yu Zhang</span>.
-  Backstepping Method and Control Allocation for a Fully-Actuated Tri-Rotor.
-  <em><strong>Accepted to </strong></em>International Conference on Guidance, Navigation and Control 2020.
-<p>
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icgnc.pdf" target="_blank" rel="noopener">PDF </a>
-</p>
-
-  <span class="author-highlighted">
       Jianqiao Yu</span>, <span>
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Junyuan Lu</span>, <span>
@@ -190,8 +187,6 @@ redirect_from:
     target="_blank" rel="noopener"> Video</a>
 </p>
 
-
-  
 
 </div>
 <p>  <br />  <br /> </p>
