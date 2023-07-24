@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am Zhangzhen Zhu (朱张赈), a Ph.D. Candidate at <strong>ZheJiang University</strong>, with the <strong>State Key Laboratory of Industrial Control Technology</strong>. My research interests lie in the areas of <strong>Advanced Control Theorem</strong, and their applications to industrial complex nonlinear systems, including unmanned aerial vehicles (experiments of over <strong>7+</strong> years) and brushless DC motors. 
+ I am Zhangzhen Zhu (朱张赈), a Ph.D. Candidate at <strong>ZheJiang University</strong>, with the <strong>State Key Laboratory of Industrial Control Technology</strong>. My research interests lie in the areas of <strong>Advanced Motion Control</strong>, and their applications to industrial complex nonlinear systems, including unmanned aerial vehicles (experiments of over <strong>7+</strong> years) and brushless DC motors. 
 
  In addition to my academic pursuits, I also possess extensive experience in the development of complex Mechatronic systems from scratch (see my Projects for details), including mechanical system realization, circuit system customization and efficient code deployment.
  
@@ -331,17 +331,8 @@ redirect_from:
 
 # 💻 Internships
 - *2016.10 - 2017.06*, NanJing TaoXun Aviation Technology, NanJing.
-
- <table>
-   <tbody>
-     <tr> 
-       <td><img src="../images/test.png" border="0"></td>
-       <td><img src="../images/helicopter.png" border="0"></td>
-     </tr>
-   </tbody>
- </table>
  
-<div class="paper-box"><div class="paper-box-image"><div><img src="../images/test_model.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><img src="../images/helicopter.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
     <p> <a href="https://www.bilibili.com/video/BV1Wu4y1U7R7/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"  target="_blank" rel="noopener">Control of coaxial helicopters</a> <br> </p>
