@@ -1,4 +1,4 @@
-![image](https://github.com/PandoraThanator/zhuzhangzhen.github.io/assets/46395295/b3901de6-05de-4390-8d10-c362a5861fdc)---
+---
 permalink: /markdown/
 title: ""
 author_profile: true
