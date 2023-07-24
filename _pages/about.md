@@ -278,14 +278,13 @@ redirect_from:
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
   
     <p>
-        This paper proposes a systematic <strong>robust predictive
-        control</strong> to solve the stabilization problem for invertible
-        nonlinear system with model uncertainties, exogenous disturbances
+        This paper proposes a <strong>robust predictive
+        control</strong> to solve the stabilization problem for nonlinear system with model uncertainties, exogenous disturbances
         and <strong>time-varying input delays</strong>. It’s still an open problem
-        to synthesize the sliding mode control with infinite-dimensional
-        backstepping transformation since the control input
-        under SMC is non-differentiable. Hence, a chattering-free full order terminal sliding mode control is
-        presented to achieve finite-time stability simultaneously.
+        to synthesize the sliding mode control with <strong>infinite-dimensional
+        backstepping transformation</strong> since the control input
+        under SMC is non-differentiable. Hence, our newly designed method is
+        presented to solve this open problem.
     </p>
   </div>
 </div>
@@ -298,10 +297,10 @@ redirect_from:
     <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li</p>
   
     <p>
-        <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the <strong>output regulation</strong> problems. 
-        It ensures finite time convergence of the system state under the <strong>unkonwn disturbance</strong>, which only needs the mild assumption that the 
-        disturbance's derivative exists. Meanwhile, the disturbance is <strong>exactly estimated</strong> and the total control input is continuous, which is 
-        critical to industrial applications with measurement noises.
+        <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the <strong>output regulation</strong> problems 
+        under <strong>measurement noises</strong>. It ensures finite time convergence of the system state under the <strong>unkonwn disturbance</strong>, which 
+        only needs the mild assumption that the disturbance's derivative exists. Meanwhile, the disturbance is <strong>exactly estimated</strong> compared with 
+        the conventional <strong>High Gain Observers</strong>.
     </p>
   </div>
 </div>
@@ -316,8 +315,8 @@ redirect_from:
     <p>
         <strong>Model predictive control</strong> based robot pose controller is proposed for our newly designed wheeled bipedal robot. The robot features
         leg mechanisms with three degrees of freedom, which effectively decouples its rolling and leaning motions. Instead of using a wheeled linear inverted 
-        pendulum model, a <strong>floating base model</strong> is introduced to maximize motion flexibility. A hierarchical MPC control structure is employed to 
-        track the desired pose. Simulation and experiments demonstrate that the proposed method can track a pose trajectory with lower error than traditional 
+        pendulum model, a <strong>floating base model</strong> is introduced to maximize motion flexibility. This hierarchical MPC control structure is employed 
+        both in simulation and experiments, demonstrating that the proposed method can track pose trajectories with lower error than the traditional 
         feedback controllers.
     </p>
   </div>
