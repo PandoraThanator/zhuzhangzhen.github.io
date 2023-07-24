@@ -108,11 +108,11 @@ redirect_from:
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
     <p>
-        <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
-        systems, it ensures robust performance under various perturbations and alleviating communication
-        burden simultaneously. A novel fully actuated multirotors applied this method shows great
-        robustness to perturbations and is able of tracking six dimensional decoupled trajectories
-        without continuous background sensor monitoring.
+         Adaptive quasi-fixed-time integral terminal sliding mode control (<strong>AFTSM</strong>) can stabilize the invertible nonlinear systems with 
+         <strong>unknown varying</strong> perturbations in <strong>quasi-fixed-time</strong>, while estimating the lumped perturbations within same time, even 
+         with large initial state errors. Besides, a novel <strong>nonsingular adaptive layer function</strong> is introduced, leading to a <strong>completely 
+         chattering-free</strong> control with no gain overestimation. The method's superiority is demonstrated through a permanent magnet 
+         synchronous motor control experiment.
     </p>
   </div>
 </div>
