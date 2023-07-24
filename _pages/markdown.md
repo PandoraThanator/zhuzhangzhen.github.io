@@ -14,8 +14,8 @@ redirect_from:
   
     <!-- <a name="TCAS">here is the redirected page</a> -->
   
-    <p> <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
-    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
+    <p> <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs.</a> <br>
+    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang. </p>
 
     <p>
         <strong>RSETC</strong> (robust self event-triggered control) is a computationally efficient and robust control policy for invertible nonlinear
@@ -87,8 +87,8 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Industrial Electronics</div><img src="../images/gimble.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
     
-    <p> Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV <br>
-    <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li </p>
+    <p> Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV. <br>
+    <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li. </p>
 
     <p>
         Adaptive Finite-time Multivariable Super-twisting Algorithm (<strong>AFMSTA</strong>) is capable of stabilizing the invertible MIMO nonlinear system in 
@@ -104,8 +104,8 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">TCAS II</div><img src="../images/motor.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
     
-    <p> Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems <br>
-    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
+    <p> Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems. <br>
+    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang. </p>
 
     <p>
          Adaptive quasi-fixed-time integral terminal sliding mode control (<strong>AFTSM</strong>) can stabilize the invertible nonlinear systems with 
@@ -122,8 +122,8 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">TAC</div><img src="../images/disconti.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
     
-    <p> Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems <br>
-    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
+    <p> Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems. <br>
+    <strong>Zhangzhen Zhu</strong>, Jaime A. Moreno, Yu Zhang. </p>
 
     <p>
       This paper proposes a <strong>robust predictive
