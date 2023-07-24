@@ -118,7 +118,7 @@ redirect_from:
 </div>
 
 For example, imposing an input disturbance 
-<math xmlns='http://www.w3.org/1998/Math/MathML'>
+<math>
   <mi> d </mi>
   <mrow>
     <mo> ( </mo>
