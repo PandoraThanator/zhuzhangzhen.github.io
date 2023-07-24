@@ -126,10 +126,15 @@
     </p>
   </div>
 </div>
-<p>
-For example, imposing an input disturbance on the nonlinear system with integral of chains. As depicted in the figures, all the states with different initial values converge into the equilibrium in fixed-time and the disturbance is estimated online through the adaptive gain tuning method.
 
-</p>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">TAC</div><img src="../images/tcasii.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+
+    <p>
+        For example, imposing an input disturbance on the nonlinear system with integral of chains. As depicted in the figures, all the states with different              initial values converge into the equilibrium in fixed-time and the disturbance is estimated online through the adaptive gain tuning method.
+    </p>
+  </div>
+</div>
 
 <p>  <br />  <br /> </p>
 
