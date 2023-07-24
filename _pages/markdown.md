@@ -118,13 +118,11 @@ redirect_from:
 </div>
 
 
-💻 Robotics and Automation Letters
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam.png" alt="sym" width="100%"></div></div>
+💻 Transactions on Automatic Control
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">TAC</div><img src="../images/disconti.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
-  
-    <!-- <a name="TIE">here is the redirected page</a> -->
-  
-    <p> <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Robust Nonlinear Self-Triggered Control Policy for a Novel Fully Actuated UAVs</a> <br>
+    
+    <p> Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang </p>
 
     <p>
