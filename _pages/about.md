@@ -50,7 +50,7 @@ redirect_from:
 <li>System Modeling and Identification</li>
 <li>Time-Varying Input Delay Systems / Nonlinear Model Predictive Control</li>
 <li>Discrete-Time Robust Event-Triggered Control</li>
-<li>Realization of some conventional algorithms like H "&infin", ADRC, MRAC and L1 Adaptive</li>
+<li>Realization of some conventional algorithms like H &infin;, ADRC, MRAC and L1 Adaptive</li>
 </ul>
 </div>
         </div>
@@ -328,7 +328,7 @@ redirect_from:
 <td><img src="../images/jaime2.png" border=0></td>
 </tr></table>
 
-Discuss and analyze the above paper in-depth with academic experts <a href="https://ieeexplore.ieee.org/author/37291091800" target="_blank" rel="noopener">Jaime A. Moreno</a> and <a href="https://ieeexplore.ieee.org/author/37270305400" target="_blank" rel="noopener">Leonid Fridman</a> in Sliding Mode Control, at Yokohama, IFAC 2023.
+Discuss and analyze the above paper in-depth with academic experts <a href="https://ieeexplore.ieee.org/author/37270305400" target="_blank" rel="noopener">Leonid Fridman</a> and <a href="https://ieeexplore.ieee.org/author/37291091800" target="_blank" rel="noopener">Jaime A. Moreno</a> in Sliding Mode Control, at Yokohama, IFAC 2023.
 
 <p>  <br />  <br /> </p>
 
