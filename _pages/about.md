@@ -310,17 +310,18 @@ redirect_from:
 </div>
 
 
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">TAC</div><img src="../images/disconti.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
+    
+    <p> Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems. <br>
+    To be submitted</p>
 
-    <p> <a href="./markdown"  target="_blank" rel="noopener">Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems</a> <br>
-    <strong>Zhangzhen Zhu</strong>, Yu Zhang, Ping Li</p>
-  
     <p>
         <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the <strong>output regulation</strong> problems 
         under <strong>measurement noises</strong>. It ensures finite time convergence of the system state under the <strong>unkonwn disturbance</strong>, which 
         only needs the mild assumption that the disturbance's derivative exists. Meanwhile, the disturbance is <strong>exactly estimated</strong> compared with 
-        the conventional <strong>High Gain Observers</strong>.
+        the conventional <strong>High Gain Observers</strong>, and <strong>high-order continuous</strong> control signal is guranteed.
     </p>
   </div>
 </div>
