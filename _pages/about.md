@@ -50,7 +50,7 @@ redirect_from:
 <li>System Modeling and Identification</li>
 <li>Time-Varying Input Delay Systems / Nonlinear Model Predictive Control</li>
 <li>Discrete-Time Robust Event-Triggered Control</li>
-<li>Realization of some conventional algorithms like H <p>&infin</p>, ADRC, MRAC and L1 Adaptive</li>
+<li>Realization of some conventional algorithms like H "&infin", ADRC, MRAC and L1 Adaptive</li>
 </ul>
 </div>
         </div>
