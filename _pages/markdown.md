@@ -115,7 +115,7 @@ redirect_from:
 </tr></table>
 
 <p>
-System Identification is conducted to obtain the transfer function from the actuator to UAV's angular speed. The <strong>swept-frequency chirp signal</strong> is utilized and a second order transfer function, including the <strong>actuator's time constant</strong> and the <strong>inertia tensor</strong> are obtained. Hence, the acturator dynamics is compensated to obtain a fast dynamic response.
+System Identification is conducted to obtain the transfer function from the actuator to UAV's angular speed. The <strong>swept-frequency chirp signal</strong> is utilized and a second order transfer function, including the <strong>actuator's time constant</strong> and the <strong>inertia tensor</strong> are obtained. Hence, the acturator dynamics is <strong>compensated</strong> to obtain a fast dynamic response.
 </p>
 
 <table><tr>
