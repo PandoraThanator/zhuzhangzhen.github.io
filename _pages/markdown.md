@@ -106,12 +106,12 @@ redirect_from:
 
 <table><tr>
 <td><img src="../images/Model_Sweep.png" border=0></td>
-<td><img src="../images/actuator.png" border=0></td>
+<td><img src="../images/inertia_real.png" border=0></td> 
 </tr></table>
 
 <table><tr>
 <td><img src="../images/inertia_model.png" border=0></td>
-<td><img src="../images/inertia_real.png" border=0></td>
+<td><img src="../images/actuator.png" border=0></td>
 </tr></table>
 
 
