@@ -50,7 +50,7 @@ redirect_from:
 <li>System Modeling and Identification</li>
 <li>Time-Varying Input Delay Systems / Nonlinear Model Predictive Control</li>
 <li>Discrete-Time Robust Event-Triggered Control</li>
-<li>Realization of some conventional algorithms like H &infin;, ADRC, MRAC and L1 Adaptive</li>
+<li>Realization of other conventional algorithms, like H &infin;, ADRC, MRAC and L1 Adaptive, etc.</li>
 </ul>
 </div>
         </div>
@@ -76,6 +76,7 @@ redirect_from:
           <div class="card-text"><p>Research interests include:</p>
 <ul>
 <li>Control and Design of Unmanned Aerial Vehicles</li>
+<li>Embedded system and RTOS development</li>
 <li>Design of Complex Mechatronic Systems</li>
 </ul>
 </div>
@@ -168,8 +169,8 @@ redirect_from:
   <strong>Under review</strong>, submitted to Transactions on Automatic Control.
 <p>
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">
-    Research </a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/23-0076_01_MS.pdf" target="_blank" rel="noopener">
+    PDF </a>
 </p>
 
   <span class="author-highlighted">
@@ -275,7 +276,8 @@ redirect_from:
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Automatic Control</div><img src="../images/delay.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-    <p> <a href="./markdown"  target="_blank" rel="noopener">Robust full order sliding mode control for nonlinear systems under time-varying input delay</a> <br>
+    <p> <a href="../files/23-0076_01_MS.pdf"  target="_blank" rel="noopener">Robust full order sliding mode control for nonlinear systems under time-varying input 
+    delay</a> <br>
     <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
   
     <p>
