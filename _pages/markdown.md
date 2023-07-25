@@ -1,4 +1,4 @@
----
+![image](https://github.com/PandoraThanator/zhuzhangzhen.github.io/assets/46395295/8e6019d0-585c-43db-8d17-71d4682f9187)![image](https://github.com/PandoraThanator/zhuzhangzhen.github.io/assets/46395295/87c1f1d4-d4ac-45a5-b86f-9db928274406)![image](https://github.com/PandoraThanator/zhuzhangzhen.github.io/assets/46395295/6aec34b2-8048-42dd-8309-9606c7e3de47)![image](https://github.com/PandoraThanator/zhuzhangzhen.github.io/assets/46395295/09e4afc5-21a6-4a37-b7c1-05c822374266)---
 permalink: /markdown/
 title: ""
 author_profile: true
@@ -193,21 +193,16 @@ For example, imposing an input disturbance d(t) = sin(5t) + cos(4t) on the nonli
 <td><img src="../images/tac2.png" border=0></td>
 </tr></table>
 
+<p>
+Inspired by the Low-power high gain observer, our new algorithm has some advantages:
+</p>
+
+<ul>
+<li>Insensitivity to measurement noises</li>
+<li>Robust to unknown perturbations</li>
+<li>Continuous control signal</li>
+<li>Exact disturbance estimation with no phase lag</li>
+<li>Online tuning of the observer gain</li>
+</ul>
+
 <p>  <br />  <br /> </p>
-
-
-
-## Locations of key files/directories
-
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
