@@ -115,13 +115,22 @@ redirect_from:
 </tr></table>
 
 <p>
-System Identification is conducted to obtain the transfer function from the actuator to UAV's angular speed. The <strong>swept-frequency chirp signal</strong> is utilized and a second order transfer function, including the actuator's time constant and the inertia tensor are obtained. Hence, the acturator dynamics is compensated to obtain a fast dynamic response.
+System Identification is conducted to obtain the transfer function from the actuator to UAV's angular speed. The <strong>swept-frequency chirp signal</strong> is utilized and a second order transfer function, including the <strong>actuator's time constant</strong> and the <strong>inertia tensor</strong> are obtained. Hence, the acturator dynamics is compensated to obtain a fast dynamic response.
 </p>
+
+<table><tr>
+<td><img src="../images/identi.png" border=0></td>
+<td><img src="../images/tie1.png" border=0></td>
+</tr></table>
 
 <table><tr>
 <td><img src="../images/control1.png" border=0></td>
 <td><img src="../images/dynamics.png" border=0></td>
 </tr></table>
+
+<p>
+<strong>Nonlinear</strong> dynamics on the <strong>entire SE3 manifold</strong> is modeled and newly designed multivariable sliding surface is utilized. Rigorous finite-time stability is analyzed.
+</p>
 
 <p> <br /> </p>
 
