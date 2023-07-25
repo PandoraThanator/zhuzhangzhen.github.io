@@ -177,13 +177,13 @@ For example, imposing an input disturbance d(t) = sin(5t) + cos(4t) on the nonli
 <div class="paper-box-text">
     
     <p> Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems. <br>
-    <strong>Zhangzhen Zhu</strong>, Jaime A. Moreno, Yu Zhang. </p>
+    To be submitted</p>
 
     <p>
         <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the <strong>output regulation</strong> problems 
         under <strong>measurement noises</strong>. It ensures finite time convergence of the system state under the <strong>unkonwn disturbance</strong>, which 
         only needs the mild assumption that the disturbance's derivative exists. Meanwhile, the disturbance is <strong>exactly estimated</strong> compared with 
-        the conventional <strong>High Gain Observers</strong>.
+        the conventional <strong>High Gain Observers</strong>, and <strong>high-order continuous</strong> control signal is guranteed.
     </p>
   </div>
 </div>
