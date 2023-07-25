@@ -115,7 +115,7 @@ redirect_from:
 </tr></table>
 
 <p>
-For example, imposing an input disturbance d(t) = sin(5t) + cos(4t) on the nonlinear system with integral of chains (2nd order). As depicted, all the states with <strong> different initial values</strong> converge in fixed-time and the disturbance is estimated <strong> online adaptively</strong>.
+System Identification is conducted to obtain the transfer function from the actuator to UAV's angular speed. The <strong>swept-frequency chirp signal</strong> is utilized and a second order transfer function, including the actuator's time constant and the inertia tensor are obtained. Hence, the acturator dynamics is compensated to obtain a fast dynamic response.
 </p>
 
 <table><tr>
