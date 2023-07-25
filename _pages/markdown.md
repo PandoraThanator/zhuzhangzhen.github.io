@@ -124,7 +124,8 @@ redirect_from:
 </tr></table>
 
 <p>
-d(t) = sin(5t) + cos(4t)
+For example, imposing an input disturbance d(t) = sin(5t) + cos(4t) on the nonlinear system with integral of chains (2nd order). As depicted in the figures, all the states with <strong> different initial values</strong> converge into the equilibrium in fixed-time and the disturbance is estimated online through the adaptive gain tuning method.
+
 </p>
 
 
