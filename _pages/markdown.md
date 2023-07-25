@@ -188,6 +188,11 @@ For example, imposing an input disturbance d(t) = sin(5t) + cos(4t) on the nonli
   </div>
 </div>
 
+<table><tr>
+<td><img src="../images/tac1.png" border=0></td>
+<td><img src="../images/tac2.png" border=0></td>
+</tr></table>
+
 <p>  <br />  <br /> </p>
 
 
