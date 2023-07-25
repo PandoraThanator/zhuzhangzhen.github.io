@@ -94,7 +94,7 @@ redirect_from:
     <p>
         Adaptive Finite-time Multivariable Super-twisting Algorithm (<strong>AFMSTA</strong>) is capable of stabilizing the invertible MIMO nonlinear system in 
         finite-time despite the <strong>co-existence of unknown</strong> model uncertainties and exogenous disturbances. This algorithm guarantees high precision 
-        steady state and estimates the bound of the perturbation <strong>online</strong>. An omni-directional attitude control on the novel fully actuated UAV is          accomplished.
+        steady state and estimates the bound of the perturbation <strong>online</strong>. An omni-directional control on the novel fully actuated UAV is          accomplished.
     </p>
   </div>
 </div>
