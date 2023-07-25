@@ -114,6 +114,21 @@ redirect_from:
 <td><img src="../images/actuator.png" border=0></td>
 </tr></table>
 
+<p>
+For example, imposing an input disturbance d(t) = sin(5t) + cos(4t) on the nonlinear system with integral of chains (2nd order). As depicted, all the states with <strong> different initial values</strong> converge in fixed-time and the disturbance is estimated <strong> online adaptively</strong>.
+</p>
+
+<div class="paper-box"><div class="paper-box-image"><div><img src="../images/control1.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+
+    <p>
+        Adaptive Finite-time Multivariable Super-twisting Algorithm (<strong>AFMSTA</strong>) is capable of stabilizing the invertible MIMO nonlinear system in 
+        finite-time despite the <strong>co-existence of unknown</strong> model uncertainties and exogenous disturbances. This algorithm guarantees high precision 
+        steady state and estimates the bound of the perturbation <strong>online</strong>. An omni-directional attitude control on the novel fully actuated UAV is          accomplished.
+    </p>
+  </div>
+</div>
+
 
 
 💻 Transactions on Circuits and Systems II
@@ -140,8 +155,8 @@ redirect_from:
 
 <p>
 For example, imposing an input disturbance d(t) = sin(5t) + cos(4t) on the nonlinear system with integral of chains (2nd order). As depicted, all the states with <strong> different initial values</strong> converge in fixed-time and the disturbance is estimated <strong> online adaptively</strong>.
-
 </p>
+
 
 
 💻 Transactions on Automatic Control
