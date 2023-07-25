@@ -100,12 +100,12 @@ redirect_from:
 </div>
 
 <table><tr>
-<td><img src="../images/bode.png" border=0></td>
+<td><img src="../images/Model_Sweep.png" border=0></td> 
 <td><img src="../images/data_spectrum.png" border=0></td>
 </tr></table>
 
 <table><tr>
-<td><img src="../images/Model_Sweep.png" border=0></td>
+<td><img src="../images/bode.png" border=0></td>
 <td><img src="../images/inertia_real.png" border=0></td> 
 </tr></table>
 
@@ -139,7 +139,7 @@ redirect_from:
 </tr></table>
 
 <p>
-For example, imposing an input disturbance d(t) = sin(5t) + cos(4t) on the nonlinear system with integral of chains (2nd order). As depicted in the figures, all the states with <strong> different initial values</strong> converge into the equilibrium in fixed-time and the disturbance is estimated online through the adaptive gain tuning method.
+For example, imposing an input disturbance d(t) = sin(5t) + cos(4t) on the nonlinear system with integral of chains (2nd order). As depicted, all the states with <strong> different initial values</strong> converge in fixed-time and the disturbance is estimated <strong> online adaptively</strong>.
 
 </p>
 
