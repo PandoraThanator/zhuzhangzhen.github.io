@@ -220,7 +220,7 @@ redirect_from:
 
 
 
-# 💻 Projects
+# 💻 Research
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IFAC 2023</div><img src="../images/fam1.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
