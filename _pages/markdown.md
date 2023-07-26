@@ -211,7 +211,7 @@ We implement this new algorithm on the above newly designed fully actuated UAV, 
 
 <table><tr>
 <td><img src="../images/force_tac.png" border=0></td>
-<td><img src="../images/6D_pose" border=0></td>
+<td><img src="../images/6D_pose.png" border=0></td>
 </tr></table>
 
 
