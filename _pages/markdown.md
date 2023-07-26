@@ -206,7 +206,7 @@ Inspired by the Low-power high gain observer, our new algorithm has some advanta
 </ul>
 
 <p>
-We implement this new algorithm on the above newly designed fully actuated UAV, where <strong>only</strong> attitude and position feedback information can be obtained (e.g., from <strong>Motion Capture System</strong>). The nominal mass of the drone m_n(t) = 6kg, and the actual varying total mass m(t) = 6 + 1.5 sin(5t) + cos(2t);
+We implement this new algorithm on the above newly designed fully actuated UAV, where <strong>only</strong> attitude and position feedback are available (e.g., from <strong>Motion Capture System</strong>). The varying load mass m_d(t) = 1.5&times;sin(5t) + cos(2t) is imposed on the drone (nominal mass m_n(t) = 5kg).
 </p>
 
 <table><tr>
@@ -214,11 +214,11 @@ We implement this new algorithm on the above newly designed fully actuated UAV, 
 <td><img src="../images/6D_pose.png" border=0></td>
 </tr></table>
 
-<img src="../images/estimation_tac.png" height="500" width="800">
+<img src="../images/estimation_tac.png" height="400" width="800">
 <p>
-        As depicted above, the varying unkonw load mass m_l(t) = 1.5 sin(5t) + cos(2t) is exactly estimated <strong>without phase lag</strong>, and the control 
-        input signal is tolerated for real systems compared with the conventional Levant's Observer.
-        This new observer based control algorithm will bring significant values in industrial applications such as motor control, chassis control and etc.
+        As depicted above, the varying <strong>unknown</strong> load mass m_d(t) = 1.5&times;sin(5t) + cos(2t) is exactly estimated <strong>without phase lag</strong>, 
+        and the control input signal is tolerated for real systems compared with the conventional Levant's Observer.
+        This new algorithm will bring significant values in industrial applications like motor control, chassis control and etc.
 </p>
 
 <p>  <br />  <br /> </p>
