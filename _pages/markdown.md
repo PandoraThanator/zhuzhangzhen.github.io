@@ -215,10 +215,14 @@ We implement this new algorithm on the above newly designed fully actuated UAV, 
 </tr></table>
 
 <img src="../images/estimation_tac.png" height="350" width="800">
+
 <p>
-        As depicted above, the varying <strong>unknown</strong> load mass m_d(t) = 1.5&times;sin(5t) + cos(2t) is exactly estimated <strong>without phase lag</strong>, 
-        and the control input signal is tolerated for real systems compared with the conventional Levant's Observer.
-        This new algorithm will bring significant values in industrial applications like motor control, chassis control and etc.
+  
+      As depicted above, the varying <strong>unknown</strong> load mass m_d(t) = 1.5&times;sin(5t) + cos(2t) is exactly estimated <strong>without phase 
+      lag</strong>, 
+      and the control input signal is tolerated for real systems compared with the conventional Levant's Observer.
+      This new algorithm will bring significant values in industrial applications like </strong>motor control</strong>, </strong>chassis control</strong> and 
+      etc.
 </p>
 
 <p>  <br />  <br /> </p>
