@@ -210,21 +210,22 @@ We implement this new algorithm on the above newly designed fully actuated UAV, 
 </p>
 
 <table><tr>
-<td><img src="../images/force1.png" border=0></td>
-<td><img src="../images/force2.png" border=0></td>
-</tr></table>
-
-<table><tr>
-<td><img src="../images/estimation_tac.png" border=0></td>
+<td><img src="../images/force_tac.png" border=0></td>
 <td><img src="../images/6D_pose" border=0></td>
 </tr></table>
 
-<p>
-As depicted above, the varying unkonw load mass m_l(t) = 1.5 sin(5t) + cos(2t) is exactly estimated <strong>without phase lag</strong>, and the control input signal is tolerated for real systems compared with the conventional Levant's Observer.
-</p>
 
-<p>
-This new observer based control algorithm will bring significant values in industrial applications such as motor control, chassis control and etc.
-</p>
+<div class="paper-box"><div class="paper-box-image"><div><img src="../images/estimation_tac.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+
+    <p>
+        As depicted above, the varying unkonw load mass m_l(t) = 1.5 sin(5t) + cos(2t) is exactly estimated <strong>without phase lag</strong>, and the control 
+        input signal is tolerated for real systems compared with the conventional Levant's Observer.
+        This new observer based control algorithm will bring significant values in industrial applications such as motor control, chassis control and etc.
+    </p>
+  </div>
+</div>
+
+
 
 <p>  <br />  <br /> </p>
