@@ -319,7 +319,7 @@ redirect_from:
     <p> <a href="./markdown"  target="_blank" rel="noopener">Adaptive and continuous low-power exact sliding mode observer for arbitrary-order nonlinear systems. 
     </a> <br>
     To be submitted</p>
-    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang</p>
+    <strong>Zhangzhen Zhu</strong>, Yongliang Lin, Yu Zhang
 
     <p>
         <strong>ACLEO</strong> Adaptive Continuous Low-power Exact sliding mode observer is a powerful tool for the <strong>output regulation</strong> problems 
