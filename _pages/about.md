@@ -12,6 +12,8 @@ redirect_from:
  
  As an experienced Mechatronic systems developer, I have a strong track record in creating complex mechanical, circuit systems from scratch (see my <a href="./markdown" target="_blank" rel="noopener">Projects</a>). Additionally, I am a <strong>master in Matlab/Simulink</strong> and rapid code implementation of new control algorithms from academia into real industrial systems is within my capabilities.
 
+ Download my <a href="../files/IFAC2023_PrePrint.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> here.
+
 <p>  <br />  <br /> </p>
 
 
