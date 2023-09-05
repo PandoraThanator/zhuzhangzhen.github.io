@@ -152,7 +152,7 @@ redirect_from:
       Yu Zhang</span>, <span>
       Ping Li</span>.
   Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV. 
-  <strong>Under review</strong>, submitted to Transactions on Industrial Electronics.
+  <strong>Under review (second round)</strong>, submitted to Transactions on Industrial Electronics.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TIE" target="_blank" rel="noopener"> Research </a>
