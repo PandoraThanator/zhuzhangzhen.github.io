@@ -115,6 +115,23 @@ redirect_from:
     target="_blank" rel="noopener"> Video</a>
 </p>
 
+
+    <span class="author-highlighted">
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Yu Zhang</span>, <span>
+      Ping Li</span>.
+  Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV. 
+  <strong>Under review (second round)</strong>, submitted to Transactions on Industrial Electronics.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TIE" target="_blank" rel="noopener"> Research </a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1ZW4y1d7Dm/?share_source=copy_web&vd_source=d09cf2aaaac7a6187ef097185616ef97"     
+    target="_blank" rel="noopener"> My_Video</a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1Vc411w7wW/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
+    target="_blank" rel="noopener"> Comaprison_Video</a>
+</p>
+
+
   <span class="author-highlighted">
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Yongliang Lin</span>, <span>
@@ -145,21 +162,6 @@ redirect_from:
   <strong>Accepted to </strong>International Conference on Guidance, Navigation and Control 2020.
 <p>
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/icgnc.pdf" target="_blank" rel="noopener">PDF </a>
-</p>
-  
-  <span class="author-highlighted">
-      <strong>Zhangzhen Zhu </strong></span>, <span>
-      Yu Zhang</span>, <span>
-      Ping Li</span>.
-  Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV. 
-  <strong>Under review (second round)</strong>, submitted to Transactions on Industrial Electronics.
-<p>
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TIE" target="_blank" rel="noopener"> Research </a>
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1ZW4y1d7Dm/?share_source=copy_web&vd_source=d09cf2aaaac7a6187ef097185616ef97"     
-    target="_blank" rel="noopener"> My_Video</a>
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1Vc411w7wW/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
-    target="_blank" rel="noopener"> Comaprison_Video</a>
 </p>
 
 
