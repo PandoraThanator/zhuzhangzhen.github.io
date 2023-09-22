@@ -162,7 +162,7 @@ redirect_from:
       Sicheng Yin</span>, <span>
       Yu Zhang</span>.
   Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot.
-  <strong>Under review (second round)</strong>, submitted to Robotics and Automation Letters.
+  <strong>Accepted to </strong> Robotics and Automation Letters.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV18P411r7Jc/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
