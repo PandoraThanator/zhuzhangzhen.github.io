@@ -116,6 +116,18 @@ redirect_from:
 </p>
 
 
+<span class="author-highlighted">
+      <strong>Zhangzhen Zhu </strong></span>, <span>
+      Yongliang Lin</span>, <span>
+      Yu Zhang</span>.
+  Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems.
+  <strong>Accepted to </strong>, submitted to Transactions on Circuits and Systems II.
+<p>
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TCASII" target="_blank" rel="noopener">Research </a>
+</p>
+
+
     <span class="author-highlighted">
       <strong>Zhangzhen Zhu </strong></span>, <span>
       Yu Zhang</span>, <span>
@@ -131,17 +143,6 @@ redirect_from:
     target="_blank" rel="noopener"> Comaprison_Video</a>
 </p>
 
-
-  <span class="author-highlighted">
-      <strong>Zhangzhen Zhu </strong></span>, <span>
-      Yongliang Lin</span>, <span>
-      Yu Zhang</span>.
-  Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems.
-  <strong>Under review (second round)</strong>, submitted to Transactions on Circuits and Systems II.
-<p>
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TCASII" target="_blank" rel="noopener">Research </a>
-</p>
 
   <span class="author-highlighted">
       Yunhe Wang</span>, <span>
