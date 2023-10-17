@@ -121,7 +121,7 @@ redirect_from:
       Yongliang Lin</span>, <span>
       Yu Zhang</span>.
   Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems.
-  <strong>Accepted to </strong>, submitted to Transactions on Circuits and Systems II.
+  <strong>Accepted to </strong> Transactions on Circuits and Systems II.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TCASII" target="_blank" rel="noopener">Research </a>
