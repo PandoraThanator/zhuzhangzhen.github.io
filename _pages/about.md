@@ -211,7 +211,10 @@ redirect_from:
 <ul class="ul-interests mb-0">
   
     <li>Yicheng Zeng, <strong>Zhangzhen Zhu (director)</strong>, Yu Zhang. <em><strong>CN115806071A</strong></em>.
-    <p> 
+    <p>
+      
+      <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/certificate.pdf" target="_blank" rel="noopener">
+    PDF </a>
       <a href="../files/CN115806071A.pdf"  target="_blank" rel="noopener">Vector propulsion device and aircraft.</a> <br>
     </p>
     </li>
