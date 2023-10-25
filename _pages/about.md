@@ -124,6 +124,7 @@ redirect_from:
   <strong>Accepted to </strong> Transactions on Circuits and Systems II.
 <p>
   
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/TCAS_II.pdf" target="_blank" rel="noopener">PDF </a>
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TCASII" target="_blank" rel="noopener">Research </a>
 </p>
 
