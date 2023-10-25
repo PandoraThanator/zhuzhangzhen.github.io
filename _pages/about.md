@@ -212,9 +212,6 @@ redirect_from:
   
     <li>Yicheng Zeng, <strong>Zhangzhen Zhu (director)</strong>, Yu Zhang. <em><strong>CN115806071A</strong></em>.
     <p>
-      
-      <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/certificate.pdf" target="_blank" rel="noopener">
-    PDF </a>
       <a href="../files/CN115806071A.pdf"  target="_blank" rel="noopener">Vector propulsion device and aircraft.</a> <br>
     </p>
     </li>
@@ -223,6 +220,7 @@ redirect_from:
     <p> 
       <a href="../files/CN108945395A.pdf"  target="_blank" rel="noopener">Multi-degree-of-freedom rotor system, rotor system for preventing entanglement, and 
       unmanned aerial vehicle.</a> <br>
+      <a href="../files/certificate.pdf"  target="_blank" rel="noopener">Certificate.</a> <br>
     </p>
     </li>
 </ul>
