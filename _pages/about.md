@@ -221,6 +221,7 @@ redirect_from:
       <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/certificate.pdf" target="_blank" rel="noopener">PDF </a>
       <a href="../files/CN108945395A.pdf"  target="_blank" rel="noopener">Multi-degree-of-freedom rotor system, rotor system for preventing entanglement, and 
       unmanned aerial vehicle.</a> <br>
+    </p>
     </li>
 </ul>
 
