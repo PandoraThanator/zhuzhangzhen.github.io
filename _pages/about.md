@@ -57,25 +57,7 @@ redirect_from:
   
 <p> <br /> </p>  
   
-  <div class="row experience">
-    
-    <div class="col py-2">
-      <div class="card">
-        <div class="card-body">
-          <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="http://nuaa.edu.cn/" target="_blank" rel="noopener"><img src="../images/NUAA_Logo.png" width="56px" height="56px" alt="Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing." loading="lazy"></a></div>
-            <div>
-              <div class="text-muted exp-meta"> 2014.09 - 2018.06 </div>
-              <div class="section-subheading card-title exp-title text-muted my-0">Bachelor of Mechanical and Electrical Engineering</div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://changkong.nuaa.edu.cn/" target="_blank" rel="noopener">Chang Kong Honors College, Nanjing University of Aeronautics and Astronautics, Nanjing</a></div> </div>
-          </div>
-          
-          <div class="card-text"><p>Research interests include:</p>
-</div>
-        </div>
-      </div>
-    </div>
-  </div> 
+
 </div>
   
     </div>
