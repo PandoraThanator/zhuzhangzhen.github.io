@@ -20,6 +20,50 @@ redirect_from:
 
 
 
+# 💻 Experience
+<p>  <br />  </p>
+
+<section id="section-experience" class="home-section wg-experience  ">
+ <div class="home-section-bg ">
+   
+ </div>
+  <div class="container">
+  
+    <div class="row  ">
+
+<div class="col-12 col-lg-8">
+  
+  <div class="row experience">
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.zju.edu.cn/" target="_blank" rel="noopener"><img src="../images/ZJU_Logo.png" width="56px" height="56px" alt="College of Control Science and Engineering, Zhejiang University, Hangzhou" loading="lazy"></a></div>
+            <div>
+              <div class="text-muted exp-meta"> 2018.09 - 2024.06 </div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate of Control Science and Engineering </div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="http://www.cse.zju.edu.cn/" target="_blank" rel="noopener">College of Control Science and Engineering, Zhejiang University, Hangzhou</a></div>
+            </div>
+          </div>
+
+          <div class="card-text"><p>Research interests include:</p>
+<ul>
+<li>Nonlinear Adaptive High Order Sliding Mode Control / Observer</li>
+<li>System Modeling and Identification</li>
+<li>Robust Control of Nonlinear Time-Varying Input Delay Systems / Nonlinear Model Predictive Control</li>
+<li>Discrete-Time Robust Event-Triggered Control</li>
+<li>Realization of other conventional algorithms, like ADRC, H &infin;, MRAC and L1 Adaptive, etc.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<p>  <br />  </p>
+
+
 
 
 # 📖 Educations
