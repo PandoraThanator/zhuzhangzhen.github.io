@@ -43,16 +43,8 @@ redirect_from:
             <div>
               <div class="text-muted exp-meta"> 2024.07 - Present </div>
               <div class="section-subheading card-title exp-title text-muted my-0">Senior Software Engineer </div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="http://www.cse.zju.edu.cn/" target="_blank" rel="noopener">College of Control Science and Engineering, Zhejiang University, Hangzhou</a></div>
             </div>
           </div>
-
-          <div class="card-text"><p>Research interests include:</p>
-<ul>
-<li>Nonlinear Adaptive High Order Sliding Mode Control / Observer</li>
-<li>Realization of other conventional algorithms, like ADRC, H &infin;, MRAC and L1 Adaptive, etc.</li>
-</ul>
-</div>
 </div>
 
 <p>  <br />  </p>
