@@ -20,40 +20,7 @@ redirect_from:
 
 
 
-
-
-
 # 💻 Experience
-<p>  <br />  </p>
-
-<section id="section-experience" class="home-section wg-experience  ">
- <div class="home-section-bg ">
- </div>
-  <div class="container">
-  
-    <div class="row  ">
-
-<div class="col-12 col-lg-8">
-  
-  <div class="row experience">
-    
-    <div class="col py-2">
-      <div class="card">
-        <div class="card-body">
-          <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></div>
-            <div>
-              <div class="text-muted exp-meta"> 2024.07 - Present </div>
-              <div class="section-subheading card-title exp-title text-muted my-0">Senior Software Engineer </div>
-            </div>
-          </div>
-</div>
-<p>  <br />  </p>
-
-
-
-
-# 📖 Educations
 <p>  <br />  </p>
 
 <section id="section-experience" class="home-section wg-experience  ">
@@ -72,11 +39,11 @@ redirect_from:
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://www.zju.edu.cn/" target="_blank" rel="noopener"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></a></div>
+            <div class="mr-2 mb-2"><a href="https://www.bydglobal.com/" target="_blank" rel="noopener"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></a></div>
             <div>
               <div class="text-muted exp-meta"> 2018.09 - 2024.06 </div>
               <div class="section-subheading card-title exp-title text-muted my-0">Senior Software Engineer </div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="http://www.cse.zju.edu.cn/" target="_blank" rel="noopener">College of Control Science and Engineering, Zhejiang University, Hangzhou</a></div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.bydglobal.com/" target="_blank" rel="noopener">BYD Auto Industry Company Limited, ShenZhen</a></div>
             </div>
           </div>
 
