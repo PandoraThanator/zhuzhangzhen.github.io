@@ -25,19 +25,14 @@ redirect_from:
 
 
 
+
 # 💻 Experience
 <p>  <br />  </p>
 
 <section id="section-experience" class="home-section wg-experience  ">
  <div class="home-section-bg ">
  </div>
-  <div class="container">
   
-    <div class="row  ">
-
-<div class="col-12 col-lg-8">
-  
-</section>
 <p>  <br />  </p>
 
 
