@@ -57,10 +57,6 @@ redirect_from:
       </div>
     </div>
   </div>
-  
-<p> <br /> </p>  
-
-</section>
 
 <p>  <br />  <br /> </p>
 
