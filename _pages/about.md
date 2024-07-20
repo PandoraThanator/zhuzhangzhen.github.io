@@ -39,7 +39,7 @@ redirect_from:
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://www.zju.edu.cn/" target="_blank" rel="noopener"><img src="../images/byd.png" width="56px" height="56px" alt="College of Control Science and Engineering, Zhejiang University, Hangzhou" loading="lazy"></a></div>
+            <div class="mr-2 mb-2"><img src="../images/byd.png" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></a></div>
             <div>
               <div class="text-muted exp-meta"> 2024.07 - Present </div>
               <div class="section-subheading card-title exp-title text-muted my-0">Senior Software Engineer </div>
@@ -55,6 +55,7 @@ redirect_from:
 </div>
 </div>
 
+<p>  <br />  </p>
 
 
 
