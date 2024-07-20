@@ -33,11 +33,11 @@ redirect_from:
  </div>
   <div class="container">
   
-    <div class="row  ">  </div>
- </div>
-<div class="col-12 col-lg-8">
-</div>
+    <div class="row  ">
 
+<div class="col-12 col-lg-8">
+  
+</section>
 <p>  <br />  </p>
 
 
