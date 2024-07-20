@@ -131,7 +131,7 @@ redirect_from:
 
     <span class="author-highlighted">
       <strong>Zhangzhen Zhu </strong></span>, <span>
-      Jianqiao Yu</span>, <span> Yongliang Lin</span>
+      Jianqiao Yu</span>, <span> Yongliang Lin</span>,
       <span> Yu Zhang</span>.
   Design, Modeling and Adaptive Robust Control of a Spatial Symmetric Omni-Directional Aerial Vehicle. 
   <strong>Accepted to </strong> IEEE Robotics and Automation Letters.
