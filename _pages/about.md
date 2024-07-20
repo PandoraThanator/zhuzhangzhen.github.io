@@ -33,7 +33,18 @@ redirect_from:
 <div class="col-12 col-lg-8">
   
   <div class="row experience">
-
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></div>
+            <div>
+              <div class="text-muted exp-meta"> 2024.07 - Present </div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Senior Software Engineer </div>
+            </div>
+          </div>
+</div>
 </div>
 <p>  <br />  </p>
 
