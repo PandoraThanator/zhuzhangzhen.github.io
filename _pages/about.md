@@ -39,10 +39,10 @@ redirect_from:
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://www.zju.edu.cn/" target="_blank" rel="noopener"><img src="../images/ZJU_Logo.png" width="56px" height="56px" alt="College of Control Science and Engineering, Zhejiang University, Hangzhou" loading="lazy"></a></div>
+            <div class="mr-2 mb-2"><a href="https://www.zju.edu.cn/" target="_blank" rel="noopener"><img src="../images/byd.png" width="56px" height="56px" alt="College of Control Science and Engineering, Zhejiang University, Hangzhou" loading="lazy"></a></div>
             <div>
-              <div class="text-muted exp-meta"> 2018.09 - 2024.06 </div>
-              <div class="section-subheading card-title exp-title text-muted my-0">Ph.D. candidate of Control Science and Engineering </div>
+              <div class="text-muted exp-meta"> 2024.07 - Present </div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Senior Software Engineer </div>
               <div class="section-subheading card-title exp-company text-muted my-0"><a href="http://www.cse.zju.edu.cn/" target="_blank" rel="noopener">College of Control Science and Engineering, Zhejiang University, Hangzhou</a></div>
             </div>
           </div>
