@@ -45,8 +45,26 @@ redirect_from:
             </div>
           </div>
 </div>
-</div>
 <p>  <br />  </p>
+
+
+
+
+# 💻 Experience
+<p>  <br />  </p>
+
+<section id="section-experience" class="home-section wg-experience  ">
+ <div class="home-section-bg ">
+ </div>
+  <div class="container">
+  
+    <div class="row  ">  </div>
+ </div>
+<div class="col-12 col-lg-8">
+</div>
+
+<p>  <br />  </p>
+
 
 
 
