@@ -47,15 +47,10 @@ redirect_from:
             </div>
           </div>
 
-          <div class="card-text"><p>Research interests include:</p>
-
-</div>
         </div>
       </div>
     </div>
   </div>
-  
-<p> <br /> </p>  
   
 
 </div>
