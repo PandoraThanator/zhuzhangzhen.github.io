@@ -41,20 +41,14 @@ redirect_from:
           <div class="d-flex align-content-start">
             <div class="mr-2 mb-2"><a href="https://www.bydglobal.com/" target="_blank" rel="noopener"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></a></div>
             <div>
-              <div class="text-muted exp-meta"> 2018.09 - 2024.06 </div>
+              <div class="text-muted exp-meta"> 2024.07 - Present </div>
               <div class="section-subheading card-title exp-title text-muted my-0">Senior Software Engineer </div>
               <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.bydglobal.com/" target="_blank" rel="noopener">BYD Auto Industry Company Limited, ShenZhen</a></div>
             </div>
           </div>
 
           <div class="card-text"><p>Research interests include:</p>
-<ul>
-<li>Nonlinear Adaptive High Order Sliding Mode Control / Observer</li>
-<li>System Modeling and Identification</li>
-<li>Robust Control of Nonlinear Time-Varying Input Delay Systems / Nonlinear Model Predictive Control</li>
-<li>Discrete-Time Robust Event-Triggered Control</li>
-<li>Realization of other conventional algorithms, like ADRC, H &infin;, MRAC and L1 Adaptive, etc.</li>
-</ul>
+
 </div>
         </div>
       </div>
@@ -77,11 +71,6 @@ redirect_from:
           </div>
           
           <div class="card-text"><p>Research interests include:</p>
-<ul>
-<li>Control and Design of Unmanned Aerial Vehicles</li>
-<li>Embedded system and RTOS development</li>
-<li>Design of Complex Mechatronic Systems</li>
-</ul>
 </div>
         </div>
       </div>
