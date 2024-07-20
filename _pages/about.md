@@ -131,10 +131,10 @@ redirect_from:
 
     <span class="author-highlighted">
       <strong>Zhangzhen Zhu </strong></span>, <span>
-      Yu Zhang</span>, <span>
-      Ping Li</span>.
-  Adaptive Multivariable Super-Twisting Control for Nonlinear Systems and Its Application to A Novel Fully Actuated UAV. 
-  <strong>Under review (second round)</strong>, submitted to Transactions on Industrial Electronics.
+      Jianqiao Yu</span>, <span> Yongliang Lin</span>
+      <span> Yu Zhang</span>.
+  Design, Modeling and Adaptive Robust Control of a Spatial Symmetric Omni-Directional Aerial Vehicle. 
+  <strong>Accepted to </strong> IEEE Robotics and Automation Letters.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TIE" target="_blank" rel="noopener"> Research </a>
