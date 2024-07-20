@@ -50,18 +50,12 @@ redirect_from:
           <div class="card-text"><p>Research interests include:</p>
 <ul>
 <li>Nonlinear Adaptive High Order Sliding Mode Control / Observer</li>
-<li>System Modeling and Identification</li>
-<li>Robust Control of Nonlinear Time-Varying Input Delay Systems / Nonlinear Model Predictive Control</li>
-<li>Discrete-Time Robust Event-Triggered Control</li>
 <li>Realization of other conventional algorithms, like ADRC, H &infin;, MRAC and L1 Adaptive, etc.</li>
 </ul>
 </div>
-        </div>
-      </div>
-    </div>
-  </div>
+</div>
 
-<p>  <br />  </p>
+
 
 
 
