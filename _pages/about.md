@@ -57,8 +57,8 @@ I have a strong track record in creating complex mechanical, circuit systems fro
   </div>
 
 <table><tr>
-<td><img src="../images/jaime1.png" border=0></td>
-<td><img src="../images/jaime2.png" border=0></td>
+<td><img src="../images/u8.jpg" border=0></td>
+<td><img src="../images/u9.jpg" border=0></td>
 </tr></table>
 
 </section>
