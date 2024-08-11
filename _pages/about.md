@@ -43,7 +43,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
             <div>
               <div class="text-muted exp-meta"> 2024.07 - Present </div>
               <div class="section-subheading card-title exp-title text-muted my-0">Senior Software Engineer </div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.bydglobal.com/" target="_blank" rel="noopener">BYD Auto Industry Company Limited, ShenZhen</a></div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.yangwangauto.com/" target="_blank" rel="noopener">BYD Auto Industry Company Limited, ShenZhen</a></div>
             </div>
           </div>
 
