@@ -57,6 +57,9 @@ I have a strong track record in creating complex mechanical, circuit systems fro
   </div>
 </section>
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Transactions on Industrial Electronics</div><img src="../images/gimble.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+
 <p>  <br />  <br /> </p>
 
 
