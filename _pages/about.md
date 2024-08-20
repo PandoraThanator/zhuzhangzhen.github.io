@@ -55,11 +55,10 @@ I have a strong track record in creating complex mechanical, circuit systems fro
     </div>
   </div>
 
-<div class="container">  
+<div class="image-container">  
   <img src="../images/u8.jpg" alt="第一张图片">  
   <img src="../images/u9.jpg" alt="第二张图片">  
 </div>  
-
 
 </section>
 
