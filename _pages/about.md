@@ -19,7 +19,6 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 
 
 
-
 # 💻 Experience
 <p>  <br />  </p>
 
@@ -56,10 +55,11 @@ I have a strong track record in creating complex mechanical, circuit systems fro
     </div>
   </div>
 
-<table><tr>
-<td><img src="../images/u8.jpg" border=none></td>
-<td><img src="../images/u9.jpg" border=none></td>
-</tr></table>
+<div class="container">  
+  <img src="../images/u8.jpg" alt="第一张图片">  
+  <img src="../images/u9.jpg" alt="第二张图片">  
+</div>  
+
 
 </section>
 
