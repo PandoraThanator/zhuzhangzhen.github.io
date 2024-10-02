@@ -404,6 +404,12 @@ Discuss and analyze the above paper in-depth with academic experts <a href="http
 
 # 💻 Internships
 - *2016.10 - 2017.06*, NanJing TaoXun Aviation Technology, NanJing.
+
+<div class="paper-box"><div class="paper-box-image"><div><img src="../images/coaxial_large.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+    
+</div>
+
  
 <div class="paper-box"><div class="paper-box-image"><div><img src="../images/helicopter.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
