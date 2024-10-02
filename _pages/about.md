@@ -185,8 +185,8 @@ I have a strong track record in creating complex mechanical, circuit systems fro
   Design, Modeling and Adaptive Robust Control of a Spatial Symmetric Omni-Directional Aerial Vehicle. 
   <strong>Accepted to </strong> IEEE Robotics and Automation Letters.
 <p>
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="./markdown#TIE" target="_blank" rel="noopener"> PDF </a>
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/10517629" target="_blank" rel="noopener"> PDF </a>
     
     <!--
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV1ZW4y1d7Dm/?share_source=copy_web&vd_source=d09cf2aaaac7a6187ef097185616ef97"     
