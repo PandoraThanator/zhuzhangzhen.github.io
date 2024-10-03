@@ -218,7 +218,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
   Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot.
   <strong>Accepted to </strong> Robotics and Automation Letters.
 <p>
-  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/10271551" target="_blank" rel="noopener">PDF </a>
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV18P411r7Jc/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
     target="_blank" rel="noopener"> Video</a>
 </p>
