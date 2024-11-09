@@ -170,7 +170,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
       Yongliang Lin</span>, <span>
       Yu Zhang</span>.
   Adaptive Quasi-Fixed-Time Integral Terminal Sliding Mode Control for Nonlinear Systems.
-  <strong>Accepted to </strong> Transactions on Circuits and Systems II.
+  <strong>Accepted to </strong> IEEE Transactions on Circuits and Systems II.
 <p>
   
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/TCAS_II.pdf" target="_blank" rel="noopener">PDF </a>
@@ -216,7 +216,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
       Sicheng Yin</span>, <span>
       Yu Zhang</span>.
   Modeling and MPC-based Pose Tracking For Wheeled Bipedal Robot.
-  <strong>Accepted to </strong> Robotics and Automation Letters.
+  <strong>Accepted to </strong> IEEE Robotics and Automation Letters.
 <p>
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/10271551" target="_blank" rel="noopener">PDF </a>
     <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.bilibili.com/video/BV18P411r7Jc/?vd_source=1f43cb54af7af1cff3fc0139054fcab4"     
