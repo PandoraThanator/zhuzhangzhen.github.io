@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. from <strong>ZheJiang University</strong>, with the <strong>State Key Laboratory</strong> of Industrial Control Technology, under the supervision of Prof. Ping Li and Yu Zhang. 
-<p> <a href="https://person.zju.edu.cn/zhangyu"  target="_blank" rel="noopener">Yu Zhang</a> <br> </p>
-My research interests lie in the areas of <strong>Advanced Robust Motion Control</strong>, including but not limited to <strong>ground vehicles</strong>, <strong>uav</strong> (experiment over 8+ years) and brushless DC motors. 
+I am a Ph.D. from <strong>ZheJiang University</strong>, with the <strong>State Key Laboratory</strong> of Industrial Control Technology, under the supervision of Prof. Ping Li and <p> <a href="https://person.zju.edu.cn/zhangyu"  target="_blank" rel="noopener">Yu Zhang.</a> <br> </p> My research interests lie in the areas of <strong>Advanced Robust Motion Control</strong>, including but not limited to <strong>ground vehicles</strong>, <strong>uav</strong> (experiment over 8+ years) and brushless DC motors. 
  
 I have a strong track record in creating complex mechanical, circuit systems from scratch (see my <a href="./markdown" target="_blank" rel="noopener">Projects</a>). Rapid algorithm implementation to industrial systems is within my capabilities.
 
