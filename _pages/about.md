@@ -20,6 +20,9 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 
 
 
+
+<!--
+
 # 💻 Experience
 <p>  <br />  </p>
 
@@ -64,6 +67,8 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 </section>
 
 <p>  <br />  <br /> </p>
+
+-->
 
 
 
