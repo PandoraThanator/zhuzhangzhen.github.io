@@ -74,6 +74,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 
 
 
+
 # 💻 Experience
 <p>  <br />  </p>
 <section id="section-experience" class="home-section wg-experience  ">
@@ -100,8 +101,8 @@ I have a strong track record in creating complex mechanical, circuit systems fro
               <div class="section-subheading card-title exp-company text-muted my-0">Tashi Intelligent Aviation Technology Co., Ltd., Shanghai</div>
             </div>
           </div>
-          <!-- mt-5 对应 margin-top: 3rem = 48px -->
-          <div class="d-flex align-content-start mt-5">
+          <!-- mt-3 对应 margin-top:1rem = 16px -->
+          <div class="d-flex align-content-start mt-3">
             <div class="mr-2 mb-2"><a href="https://www.yangwangauto.com/" target="_blank" rel="noopener"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></a></div>
             <div>
               <div class="text-muted exp-meta"> 2024.07 - 2025.08 </div>
@@ -123,6 +124,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 </tr></table>
 </section>
 <p>  <br />  <br /> </p>
+
 
 
 
