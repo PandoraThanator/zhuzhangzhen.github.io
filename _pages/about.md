@@ -76,6 +76,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 
 
 
+
 # 💻 Experience
 <p style="margin-bottom:0.5rem;">  <br />  </p>
 <section id="section-experience" class="home-section wg-experience  ">
@@ -93,9 +94,9 @@ I have a strong track record in creating complex mechanical, circuit systems fro
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <!-- TARS logo 左移2ch；图片尺寸放大1.25倍：84px *1.25 = 105px -->
+            <!-- TARS logo 左移2ch；原图84px，缩小到85% → 71.4px -->
             <div class="mr-2 mb-2" style="margin-left: -2ch;">
-              <img src="../images/tars_logo.jpg" width="105px" height="105px" alt="TARS Intelligent Aviation Technology Co., Ltd., Shanghai" loading="lazy">
+              <img src="../images/tars_logo.jpg" width="71.4" height="71.4" alt="TARS Intelligent Aviation Technology Co., Ltd., Shanghai" loading="lazy">
             </div>
             <div>
               <div class="text-muted exp-meta">2025.09 - Present</div>
@@ -103,9 +104,14 @@ I have a strong track record in creating complex mechanical, circuit systems fro
               <div class="section-subheading card-title exp-company text-muted my-0">TARS Intelligent Aviation Technology Co., Ltd., Shanghai</div>
             </div>
           </div>
-          <!-- 使用内联style设置margin-top，稳定控制两条经历之间垂直间距 -->
-          <div class="d-flex align-content-start" style="margin-top:4rem;">
-            <div class="mr-2 mb-2"><a href="https://www.yangwangauto.com/" target="_blank" rel="noopener"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></a></div>
+          <!-- TARS条目与BYD条目垂直间距：原4rem → 4rem * 2/3 ≈ 2.67rem -->
+          <div class="d-flex align-content-start" style="margin-top:2.67rem;">
+            <!-- BYD logo容器，扩大右侧文字与图片之间水平间距一倍 -->
+            <div class="mb-2" style="margin-right:2rem;">
+              <a href="https://www.yangwangauto.com/" target="_blank" rel="noopener">
+                <img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy">
+              </a>
+            </div>
             <div>
               <div class="text-muted exp-meta"> 2024.07 - 2025.08 </div>
               <div class="section-subheading card-title exp-title text-muted my-0">Postdoctoral Research Fellow with ZJU-BYD & Senior Algorithm Engineer </div>
@@ -126,6 +132,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 </tr></table>
 </section>
 <p>  <br />  <br /> </p>
+
 
 
 
