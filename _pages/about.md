@@ -75,31 +75,56 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 
 
 
-<div class="col py-2">
-  <div class="card">
-    <div class="card-body">
-      <div class="d-flex align-content-start">
-        <div class="mr-2 mb-2">
-          <img src="../images/tars_logo.jpg" width="84px" height="84px" alt="TARS Intelligent Aviation Technology Co., Ltd., Shanghai" loading="lazy">
-        </div>
-        <div>
-          <div class="text-muted exp-meta">2025.09 - Present</div>
-          <div class="section-subheading card-title exp-title text-muted my-0">Embodied AI Algorithm Engineer</div>
-          <div class="section-subheading card-title exp-company text-muted my-0">TARS Intelligent Aviation Technology Co., Ltd., Shanghai</div>
-        </div>
-      </div>
-      <!-- mt-3 对应 margin-top:1rem = 16px，放大4倍改为 mt-5（4rem） -->
-      <div class="d-flex align-content-start mt-5">
-        <div class="mr-2 mb-2"><a href="https://www.yangwangauto.com/" target="_blank" rel="noopener"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></a></div>
-        <div>
-          <div class="text-muted exp-meta"> 2024.07 - 2025.08 </div>
-          <div class="section-subheading card-title exp-title text-muted my-0">Postdoctoral Research Fellow with ZJU-BYD & Senior Algorithm Engineer </div>
-          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.yangwangauto.com/" target="_blank" rel="noopener">BYD Auto Industry Company Limited, ShenZhen</a></div>
+# 💻 Experience
+<p>  <br />  </p>
+<section id="section-experience" class="home-section wg-experience  ">
+ <div class="home-section-bg ">
+   
+ </div>
+  <div class="container">
+  
+    <div class="row  ">
+<div class="col-12 col-lg-8">
+  
+  <div class="row experience">
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <!-- 仅图片容器左移5ch，右侧文字区域保持原位不动 -->
+            <div class="mr-2 mb-2" style="margin-left: -5ch;">
+              <img src="../images/tars_logo.jpg" width="84px" height="84px" alt="TARS Intelligent Aviation Technology Co., Ltd., Shanghai" loading="lazy">
+            </div>
+            <div>
+              <div class="text-muted exp-meta">2025.09 - Present</div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Embodied AI Algorithm Engineer</div>
+              <div class="section-subheading card-title exp-company text-muted my-0">TARS Intelligent Aviation Technology Co., Ltd., Shanghai</div>
+            </div>
+          </div>
+          <div class="d-flex align-content-start mt-5">
+            <div class="mr-2 mb-2"><a href="https://www.yangwangauto.com/" target="_blank" rel="noopener"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></a></div>
+            <div>
+              <div class="text-muted exp-meta"> 2024.07 - 2025.08 </div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Postdoctoral Research Fellow with ZJU-BYD & Senior Algorithm Engineer </div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.yangwangauto.com/" target="_blank" rel="noopener">BYD Auto Industry Company Limited, ShenZhen</a></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </div>
 </div>
+  
+    </div>
+  </div>
+<table><tr>
+<td><img src="../images/u8.jpg" border=none></td>
+<td><img src="../images/u9.jpg" border=none></td>
+</tr></table>
+</section>
+<p>  <br />  <br /> </p>
+
 
 
 
