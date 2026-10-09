@@ -73,6 +73,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 
 
 
+
 # 💻 Experience
 <p>  <br />  </p>
 <section id="section-experience" class="home-section wg-experience  ">
@@ -89,19 +90,18 @@ I have a strong track record in creating complex mechanical, circuit systems fro
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <!-- 它石智航 在上 -->
           <div class="d-flex align-content-start">
             <div class="mr-2 mb-2">
-              <img src="../images/tars_logo.jpg" width="56px" height="56px" alt="TARS Intelligent Aviation Technology Co., Ltd., Shanghai" loading="lazy">
+              <img src="../images/tars_logo.jpg" width="84px" height="84px" alt="Tashi Intelligent Aviation Technology Co., Ltd., Shanghai" loading="lazy">
             </div>
             <div>
               <div class="text-muted exp-meta">2025.09 - Present</div>
               <div class="section-subheading card-title exp-title text-muted my-0">Embodied AI Algorithm Engineer</div>
-              <div class="section-subheading card-title exp-company text-muted my-0">TARS Intelligent Aviation Technology Co., Ltd., Shanghai</div>
+              <div class="section-subheading card-title exp-company text-muted my-0">Tashi Intelligent Aviation Technology Co., Ltd., Shanghai</div>
             </div>
           </div>
-          <!-- BYD 在下，增加mt-3间距 -->
-          <div class="d-flex align-content-start mt-3">
+          <!-- mt-5 对应 margin-top: 3rem = 48px -->
+          <div class="d-flex align-content-start mt-5">
             <div class="mr-2 mb-2"><a href="https://www.yangwangauto.com/" target="_blank" rel="noopener"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></a></div>
             <div>
               <div class="text-muted exp-meta"> 2024.07 - 2025.08 </div>
@@ -123,6 +123,8 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 </tr></table>
 </section>
 <p>  <br />  <br /> </p>
+
+
 
 
 
