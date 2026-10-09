@@ -75,6 +75,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 
 
 
+
 # 💻 Experience
 <p>  <br />  </p>
 <section id="section-experience" class="home-section wg-experience  ">
@@ -92,8 +93,8 @@ I have a strong track record in creating complex mechanical, circuit systems fro
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <!-- 仅图片容器左移5ch，右侧文字区域保持原位不动 -->
-            <div class="mr-2 mb-2" style="margin-left: -5ch;">
+            <!-- TARS logo 左移2ch，文字不动 -->
+            <div class="mr-2 mb-2" style="margin-left: -2ch;">
               <img src="../images/tars_logo.jpg" width="84px" height="84px" alt="TARS Intelligent Aviation Technology Co., Ltd., Shanghai" loading="lazy">
             </div>
             <div>
@@ -102,6 +103,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
               <div class="section-subheading card-title exp-company text-muted my-0">TARS Intelligent Aviation Technology Co., Ltd., Shanghai</div>
             </div>
           </div>
+          <!-- 原来mt-3(1rem) → mt-5(4rem)，放大4倍间距 -->
           <div class="d-flex align-content-start mt-5">
             <div class="mr-2 mb-2"><a href="https://www.yangwangauto.com/" target="_blank" rel="noopener"><img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy"></a></div>
             <div>
@@ -124,6 +126,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 </tr></table>
 </section>
 <p>  <br />  <br /> </p>
+
 
 
 
