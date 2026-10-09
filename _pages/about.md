@@ -94,9 +94,9 @@ I have a strong track record in creating complex mechanical, circuit systems fro
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <!-- TARS logo 左移2ch；原图84px，缩小到85% → 71.4px -->
+            <!-- TARS logo 左移2ch；原图84px放大1.25倍 → 105px -->
             <div class="mr-2 mb-2" style="margin-left: -2ch;">
-              <img src="../images/tars_logo.jpg" width="71.4" height="71.4" alt="TARS Intelligent Aviation Technology Co., Ltd., Shanghai" loading="lazy">
+              <img src="../images/tars_logo.jpg" width="105" height="105" alt="TARS Intelligent Aviation Technology Co., Ltd., Shanghai" loading="lazy">
             </div>
             <div>
               <div class="text-muted exp-meta">2025.09 - Present</div>
@@ -104,9 +104,9 @@ I have a strong track record in creating complex mechanical, circuit systems fro
               <div class="section-subheading card-title exp-company text-muted my-0">TARS Intelligent Aviation Technology Co., Ltd., Shanghai</div>
             </div>
           </div>
-          <!-- TARS条目与BYD条目垂直间距：原4rem → 4rem * 2/3 ≈ 2.67rem -->
+          <!-- TARS条目与BYD条目垂直间距：2.67rem（之前4rem的2/3） -->
           <div class="d-flex align-content-start" style="margin-top:2.67rem;">
-            <!-- BYD logo容器，扩大右侧文字与图片之间水平间距一倍 -->
+            <!-- BYD logo容器，图片与文字水平间距扩大一倍 -->
             <div class="mb-2" style="margin-right:2rem;">
               <a href="https://www.yangwangauto.com/" target="_blank" rel="noopener">
                 <img src="../images/byd.jpg" width="56px" height="56px" alt="BYD Auto Industry Company Limited, ShenZhen" loading="lazy">
@@ -132,6 +132,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 </tr></table>
 </section>
 <p>  <br />  <br /> </p>
+
 
 
 
