@@ -339,6 +339,8 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 
 # 💾 Patent 
 
+<!--
+
 <ul class="ul-interests mb-0">
   
     <li>Yu Zhang, <strong>Zhangzhen Zhu</strong>, Yicheng Zeng. <em><strong>CN115806071A</strong></em>.
@@ -359,6 +361,37 @@ I have a strong track record in creating complex mechanical, circuit systems fro
 
 <p>  <br />  <br /> </p>
 
+-->
+
+
+
+
+
+<ul class="ul-interests mb-0">
+  
+    <li>Yu Zhang, <strong>Zhangzhen Zhu</strong>, Yicheng Zeng. <em><strong>CN115806071A</strong></em>.
+    <p>
+      <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/patent_vector.pdf" target="_blank" rel="noopener">PDF </a>
+      <a href="../files/CN115806071A.pdf"  target="_blank" rel="noopener">Vector propulsion device and aircraft.</a> <br>
+    </p>
+    </li>
+  
+    <li>Yu Zhang, <strong>Zhangzhen Zhu</strong>, Ping Li. <em><strong>CN108945395</strong></em>. 
+    <p> 
+      <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/certificate.pdf" target="_blank" rel="noopener">PDF </a>
+      <a href="../files/CN108945395A.pdf"  target="_blank" rel="noopener">Multi-degree-of-freedom rotor system, rotor system for preventing entanglement, and 
+      unmanned aerial vehicle.</a> <br>
+    </p>
+    </li>
+
+    <li>TARS Intelligent Aviation Technology, <strong>Zhangzhen Zhu</strong>. <em><strong>CN122195266B</strong></em>.
+    <p>
+      <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/CN122195266B.pdf" target="_blank" rel="noopener">PDF </a>
+      <a href="https://patents.google.com/patent/CN122195266B/en?oq=CN+122195266+B" target="_blank" rel="noopener">智能航空飞行器动力调节结构</a> <br>
+    </p>
+    </li>
+</ul>
+<p>  <br />  <br /> </p>
 
 
 
