@@ -387,7 +387,7 @@ I have a strong track record in creating complex mechanical, circuit systems fro
     <li>TARS Intelligent Aviation Technology, <strong>Zhangzhen Zhu</strong>. <em><strong>CN122195266B</strong></em>.
     <p>
       <a class="btn btn-outline-primary btn-page-header btn-sm" href="../files/CN122195266B.pdf" target="_blank" rel="noopener">PDF </a>
-      <a href="https://patents.google.com/patent/CN122195266B/en?oq=CN+122195266+B" target="_blank" rel="noopener">智能航空飞行器动力调节结构</a> <br>
+      <a href="https://patents.google.com/patent/CN122195266B/en?oq=CN+122195266+B" target="_blank" rel="noopener">Method for Dexterous Hand Remapping Based on Hand Key Points and Target Joint Angles with Reduced Motion Distortion</a> <br>
     </p>
     </li>
 </ul>
